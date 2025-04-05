@@ -1,0 +1,18 @@
+{
+  "isDebug": true,
+  "server": {
+    "host": "localhost",
+    "port": "8019",
+    "database": {
+      "name": "browser-dev",
+      "username": "browser-dev",
+      "password": "wVvm(E)VH7qY"
+    }
+  },
+  "luminati": {
+    "zone": {
+      "name": "browsertwo",
+      "password": "z08f5d06b8rx"
+    }
+  }
+}

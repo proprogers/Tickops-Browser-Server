@@ -1,0 +1,16 @@
+{
+    "isDebug": true,
+    "server": {
+      "database": {
+        "name": "browser-dev",
+        "host": "mongo"
+      }
+    },
+    "luminati": {
+      "zone": {
+        "name": "browsertwo",
+        "password": "z08f5d06b8rx"
+      }
+    }
+}
+  

@@ -1,0 +1,23 @@
+version: "3.9"
+services:
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    networks:
+      - network
+    container_name: "web"
+    environment:
+      CONFIG_PATH: ./config-docker.json
+  mongo:
+    image: "mongo"
+    container_name: "mongo"
+    networks:
+      - network
+    volumes: 
+      - ./dump:/dump
+
+networks:
+    network:
+
+

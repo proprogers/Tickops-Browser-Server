@@ -1,0 +1,402 @@
+[
+  [
+    "mn",
+    {
+      "name": "Minnesota",
+      "timezone": "America/Chicago",
+      "mysterium": "minnesota"
+    }
+  ],
+  [
+    "mt",
+    {
+      "name": "Montana",
+      "timezone": "America/Denver",
+      "mysterium": "montana"
+    }
+  ],
+  [
+    "sc",
+    {
+      "name": "South Carolina",
+      "timezone": "America/New_York",
+      "mysterium": "south_carolina"
+    }
+  ],
+  [
+    "nd",
+    {
+      "name": "North Dakota",
+      "timezone": "America/Chicago",
+      "mysterium": "north_dakota"
+    }
+  ],
+  [
+    "wa",
+    {
+      "name": "Washington",
+      "timezone": "America/Los_Angeles",
+      "mysterium": "washington"
+    }
+  ],
+  [
+    "nc",
+    {
+      "name": "North Carolina",
+      "timezone": "America/New_York",
+      "mysterium": "north_carolina"
+    }
+  ],
+  [
+    "wi",
+    {
+      "name": "Wisconsin",
+      "timezone": "America/Juneau",
+      "mysterium": "wisconsin"
+    }
+  ],
+  [
+    "az",
+    {
+      "name": "Arizona",
+      "timezone": "America/Phoenix",
+      "mysterium": "arizona"
+    }
+  ],
+  [
+    "mo",
+    {
+      "name": "Missouri",
+      "timezone": "America/Chicago",
+      "mysterium": "missouri"
+    }
+  ],
+  [
+    "ca",
+    {
+      "name": "California",
+      "timezone": "America/Los_Angeles",
+      "mysterium": "california"
+    }
+  ],
+  [
+    "pa",
+    {
+      "name": "Pennsylvania",
+      "timezone": "America/New_York",
+      "mysterium": "pennsylvania"
+    }
+  ],
+  [
+    "co",
+    {
+      "name": "Colorado",
+      "timezone": "America/Denver",
+      "mysterium": "colorado"
+    }
+  ],
+  [
+    "ut",
+    {
+      "name": "Utah",
+      "timezone": "America/Denver",
+      "mysterium": "utah"
+    }
+  ],
+  [
+    "ne",
+    {
+      "name": "Nebraska",
+      "timezone": "America/Chicago",
+      "mysterium": "nebraska"
+    }
+  ],
+  [
+    "nv",
+    {
+      "name": "Nevada",
+      "timezone": "America/Los_Angeles",
+      "mysterium": "nevada"
+    }
+  ],
+  [
+    "nm",
+    {
+      "name": "New Mexico",
+      "timezone": "America/Denver",
+      "mysterium": "new_mexico"
+    }
+  ],
+  [
+    "va",
+    {
+      "name": "Virginia",
+      "timezone": "America/Denver",
+      "mysterium": "virginia"
+    }
+  ],
+  [
+    "or",
+    {
+      "name": "Oregon",
+      "timezone": "America/Phoenix",
+      "mysterium": "oregon"
+    }
+  ],
+  [
+    "wy",
+    {
+      "name": "Wyoming",
+      "timezone": "America/New_York",
+      "mysterium": "wyoming"
+    }
+  ],
+  [
+    "ar",
+    {
+      "name": "Arkansas",
+      "timezone": "America/Anchorage",
+      "mysterium": "arkansas"
+    }
+  ],
+  [
+    "ia",
+    {
+      "name": "Iowa",
+      "timezone": "America/Chicago",
+      "mysterium": "iowa"
+    }
+  ],
+  [
+    "ny",
+    {
+      "name": "New York",
+      "timezone": "America/New_York",
+      "mysterium": "new_york"
+    }
+  ],
+  [
+    "tx",
+    {
+      "name": "Texas",
+      "timezone": "America/Chicago",
+      "mysterium": "texas"
+    }
+  ],
+  [
+    "ks",
+    {
+      "name": "Kansas",
+      "timezone": "America/Chicago",
+      "mysterium": "kansas"
+    }
+  ],
+  [
+    "oh",
+    {
+      "name": "Ohio",
+      "timezone": "America/New_York",
+      "mysterium": "ohio"
+    }
+  ],
+  [
+    "ok",
+    {
+      "name": "Oklahoma",
+      "timezone": "America/Chicago",
+      "mysterium": "oklahoma"
+    }
+  ],
+  [
+    "tn",
+    {
+      "name": "Tennessee",
+      "timezone": "America/New_York",
+      "mysterium": "tennessee"
+    }
+  ],
+  [
+    "sd",
+    {
+      "name": "South Dakota",
+      "timezone": "America/Chicago",
+      "mysterium": "south_dakota"
+    }
+  ],
+  [
+    "la",
+    {
+      "name": "Louisiana",
+      "timezone": "America/Chicago",
+      "mysterium": "louisiana"
+    }
+  ],
+  [
+    "vt",
+    {
+      "name": "Vermont",
+      "timezone": "America/New_York",
+      "mysterium": "vermont"
+    }
+  ],
+  [
+    "ma",
+    {
+      "name": "Massachusetts",
+      "timezone": "America/New_York",
+      "mysterium": "massachusetts"
+    }
+  ],
+  [
+    "fl",
+    {
+      "name": "Florida",
+      "timezone": "America/New_York",
+      "mysterium": "florida"
+    }
+  ],
+  [
+    "ga",
+    {
+      "name": "Georgia",
+      "timezone": "America/New_York",
+      "mysterium": "georgia"
+    }
+  ],
+  [
+    "ms",
+    {
+      "name": "Mississippi",
+      "timezone": "America/Chicago",
+      "mysterium": "mississippi"
+    }
+  ],
+  [
+    "mi",
+    {
+      "name": "Michigan",
+      "timezone": "America/Detroit",
+      "mysterium": "michigan"
+    }
+  ],
+  [
+    "il",
+    {
+      "name": "Illinois",
+      "timezone": "America/Chicago",
+      "mysterium": "illinois"
+    }
+  ],
+  [
+    "ky",
+    {
+      "name": "Kentucky",
+      "timezone": "America/Anchorage",
+      "mysterium": "kentucky"
+    }
+  ],
+  [
+    "wv",
+    {
+      "name": "West Virginia",
+      "timezone": "America/Chicago",
+      "mysterium": "west_virginia"
+    }
+  ],
+  [
+    "md",
+    {
+      "name": "Maryland",
+      "timezone": "America/New_York",
+      "mysterium": "maryland"
+    }
+  ],
+  [
+    "nj",
+    {
+      "name": "New Jersey",
+      "timezone": "America/New_York",
+      "mysterium": "new_jersey"
+    }
+  ],
+  [
+    "me",
+    {
+      "name": "Maine",
+      "timezone": "America/New_York",
+      "mysterium": "maine"
+    }
+  ],
+  [
+    "ak",
+    {
+      "name": "Alaska",
+      "timezone": "America/Anchorage",
+      "mysterium": "alaska"
+    }
+  ],
+  [
+    "hi",
+    {
+      "name": "Hawaii",
+      "timezone": "Pacific/Honolulu",
+      "mysterium": "hawaii"
+    }
+  ],
+  [
+    "id",
+    {
+      "name": "Idaho",
+      "timezone": "America/Boise",
+      "mysterium": "idaho"
+    }
+  ],
+  [
+    "al",
+    {
+      "name": "Alabama",
+      "timezone": "America/Chicago",
+      "mysterium": "alabama"
+    }
+  ],
+  [
+    "in",
+    {
+      "name": "Indiana",
+      "timezone": "America/Indiana/Indianapolis",
+      "mysterium": "indiana"
+    }
+  ],
+  [
+    "ri",
+    {
+      "name": "Rhode Island",
+      "timezone": "America/New_York",
+      "mysterium": "rhode_island"
+    }
+  ],
+  [
+    "nh",
+    {
+      "name": "New Hampshire",
+      "timezone": "America/New_York",
+      "mysterium": "new_hampshire"
+    }
+  ],
+  [
+    "de",
+    {
+      "name": "Delaware",
+      "timezone": "America/New_York",
+      "mysterium": "delaware"
+    }
+  ],
+  [
+    "ct",
+    {
+      "name": "Connecticut",
+      "timezone": "America/New_York",
+      "mysterium": "connecticut"
+    }
+  ]
+]

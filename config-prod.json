@@ -1,0 +1,18 @@
+{
+  "isDebug": false,
+  "server": {
+    "host": "proxy.tickops.com",
+    "port": "30333",
+    "database": {
+      "name": "browser-prod",
+      "username": "browser-prod",
+      "password": "3PM6ee8py3DXjk"
+    }
+  },
+  "luminati": {
+    "zone": {
+      "name": "browser_prod",
+      "password": "z3vkcrds30u3"
+    }
+  }
+}

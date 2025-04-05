@@ -1,0 +1,442 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "TickOps management API",
+    "version": "0.0.8",
+    "title": "TickOps",
+    "contact": {
+      "email": "tickops.com"
+    }
+  },
+  "host": "api.tickops.com:30690",
+  "basePath": "/",
+  "tags": [
+    {
+      "name": "users",
+      "description": "User management"
+    }
+  ],
+  "schemes": [
+    "http"
+  ],
+  "paths": {
+    "/users/": {
+      "get": {
+        "tags": [
+          "users"
+        ],
+        "summary": "Get users by ID or email",
+        "description": "If no query is specified, all users are returned",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "id",
+            "required": false,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "email",
+            "required": false,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          },
+          "400": {
+            "description": "Bad request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      },
+      "post": {
+        "tags": [
+          "users"
+        ],
+        "summary": "Add new user",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/addNewUser"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "Success"
+          },
+          "400": {
+            "description": "Bad request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      },
+      "patch": {
+        "tags": [
+          "users"
+        ],
+        "summary": "Update an existing user's limits",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "id",
+            "required": false,
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "email",
+            "required": false,
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/updateUserLimits"
+            }
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "Success"
+          },
+          "400": {
+            "description": "Bad request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      }
+    },
+    "/users/provider/": {
+      "patch": {
+        "tags": [
+          "users"
+        ],
+        "summary": "Change users' proxy provider",
+        "description": "If users are not specified, all non-admin users are updated",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/changeUsersProxyProvider"
+            }
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "Success"
+          },
+          "400": {
+            "description": "Bad request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      }
+    },
+    "/webhooks/drop-checker/": {
+      "post": {
+        "tags": [
+          "webhooks"
+        ],
+        "summary": "Open link in browser",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/openLink"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          },
+          "400": {
+            "description": "Bad request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      }
+    },
+    "/utils/settings/": {
+      "get": {
+        "tags": [
+          "utils"
+        ],
+        "summary": "Get setting by key",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "key",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          },
+          "400": {
+            "description": "Bad request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      },
+      "post": {
+        "tags": [
+          "utils"
+        ],
+        "summary": "Set settings key-value pair(s)",
+        "description": "An object with key-value pair(s)",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "required": true,
+            "schema": {
+              "type": "object"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "Success"
+          },
+          "400": {
+            "description": "Bad request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      }
+    },
+    "/utils/reese/latest/": {
+      "get": {
+        "tags": [
+          "utils"
+        ],
+        "summary": "Get latest TM Reese84 token",
+        "responses": {
+          "200": {
+            "description": "Success"
+          },
+          "400": {
+            "description": "Bad request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      }
+    },
+    "/utils/carting/{userId}": {
+      "patch": {
+        "tags": [
+          "carting"
+        ],
+        "summary": "Set is carting visible to a user",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "userId",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "body",
+            "name": "value",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/setCartingVisibility"
+            }
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "Success"
+          },
+          "400": {
+            "description": "Bad request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          }
+        },
+        "security": [
+          {
+            "bearerAuth": []
+          }
+        ]
+      }
+    }
+  },
+  "definitions": {
+    "setCartingVisibility": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "value"
+      ]
+    },
+    "addNewUser": {
+      "type": "object",
+      "properties": {
+        "email": {
+          "type": "string"
+        },
+        "password": {
+          "type": "string"
+        },
+        "traffic": {
+          "type": "number",
+          "description": "Monthly bandwidth limit in bytes"
+        },
+        "sessions": {
+          "type": "number",
+          "description": "Maximum number of sessions user can save"
+        }
+      },
+      "required": [
+        "email",
+        "password",
+        "sessions",
+        "traffic"
+      ]
+    },
+    "openLink": {
+      "type": "object",
+      "properties": {
+        "url": {
+          "type": "string"
+        },
+        "login": {
+          "type": "string",
+          "description": "Login (email) of user to send opening link message to"
+        },
+        "tabsNumber": {
+          "type": "number",
+          "description": "Default is 1"
+        }
+      },
+      "required": [
+        "url",
+        "login"
+      ]
+    },
+    "updateUserLimits": {
+      "type": "object",
+      "properties": {
+        "traffic": {
+          "type": "number",
+          "description": "Monthly bandwidth limit in bytes"
+        },
+        "sessions": {
+          "type": "number",
+          "description": "Maximum number of sessions user can save"
+        }
+      },
+      "required": [
+        "sessions",
+        "traffic"
+      ]
+    },
+    "changeUsersProxyProvider": {
+      "type": "object",
+      "properties": {
+        "provider": {
+          "type": "string"
+        },
+        "users": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Array of users' IDs"
+        },
+        "sync": {
+          "type": "boolean",
+          "description": "If users' existing sessions should also be updated"
+        }
+      },
+      "required": [
+        "provider"
+      ]
+    }
+  },
+  "securityDefinitions": {
+    "bearerAuth": {
+      "type": "apiKey",
+      "name": "Authorization",
+      "in": "header"
+    }
+  }
+}
+

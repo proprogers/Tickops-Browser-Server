@@ -1,0 +1,511 @@
+{
+  "browsers": [
+    {
+      "value": {
+        "name": "chrome",
+        "vendor": "Google Inc."
+      },
+      "attrs": {
+        "os": [
+          "windows",
+          "mac"
+        ]
+      }
+    }
+  ],
+  "platforms": [
+    {
+      "value": "Win32",
+      "attrs": {
+        "os": "windows",
+        "platformName": "Windows"
+      }
+    },
+    {
+      "value": "MacIntel",
+      "attrs": {
+        "os": "mac",
+        "platformName": "macOS"
+      }
+    }
+  ],
+  "screenResolutions": [
+    {
+      "value": {
+        "width": 834,
+        "height": 1112
+      },
+      "attrs": {
+        "os": "windows"
+      }
+    },
+    {
+      "value": {
+        "width": 1024,
+        "height": 1366
+      },
+      "attrs": {
+        "os": "windows"
+      }
+    },
+    {
+      "value": {
+        "width": 810,
+        "height": 1080
+      },
+      "attrs": {
+        "os": "windows"
+      }
+    },
+    {
+      "value": {
+        "width": 1600,
+        "height": 900
+      },
+      "attrs": {
+        "os": "windows"
+      }
+    },
+    {
+      "value": {
+        "width": 1280,
+        "height": 1024
+      },
+      "attrs": {
+        "os": "windows"
+      }
+    },
+    {
+      "value": {
+        "width": 1024,
+        "height": 768
+      },
+      "attrs": {
+        "os": "windows"
+      }
+    },
+    {
+      "value": {
+        "width": 768,
+        "height": 1024
+      },
+      "attrs": {
+        "os": "windows"
+      }
+    },
+    {
+      "value": {
+        "width": 1680,
+        "height": 1050
+      },
+      "attrs": {
+        "os": "windows"
+      }
+    },
+    {
+      "value": {
+        "width": 1360,
+        "height": 768
+      },
+      "attrs": {
+        "os": "windows"
+      }
+    },
+    {
+      "value": {
+        "width": 800,
+        "height": 600
+      },
+      "attrs": {
+        "os": "windows"
+      }
+    },
+    {
+      "value": {
+        "width": 360,
+        "height": 640
+      },
+      "attrs": {
+        "os": "windows"
+      }
+    },
+    {
+      "value": {
+        "width": 2048,
+        "height": 1152
+      },
+      "attrs": {
+        "os": "windows"
+      }
+    },
+    {
+      "value": {
+        "width": 1366,
+        "height": 768
+      },
+      "attrs": {
+        "os": [
+          "windows",
+          "mac"
+        ]
+      }
+    },
+    {
+      "value": {
+        "width": 1920,
+        "height": 1080
+      },
+      "attrs": {
+        "os": [
+          "windows",
+          "mac"
+        ]
+      }
+    },
+    {
+      "value": {
+        "width": 1536,
+        "height": 864
+      },
+      "attrs": {
+        "os": "windows"
+      }
+    },
+    {
+      "value": {
+        "width": 1440,
+        "height": 900
+      },
+      "attrs": {
+        "os": [
+          "windows",
+          "mac"
+        ]
+      }
+    },
+    {
+      "value": {
+        "width": 1280,
+        "height": 720
+      },
+      "attrs": {
+        "os": "windows"
+      }
+    },
+    {
+      "value": {
+        "width": 1280,
+        "height": 800
+      },
+      "attrs": {
+        "os": [
+          "windows",
+          "mac"
+        ]
+      }
+    },
+    {
+      "value": {
+        "width": 1920,
+        "height": 1200
+      },
+      "attrs": {
+        "os": [
+          "windows",
+          "mac"
+        ]
+      }
+    },
+    {
+      "value": {
+        "width": 2560,
+        "height": 1440
+      },
+      "attrs": {
+        "os": [
+          "windows",
+          "mac"
+        ]
+      }
+    },
+    {
+      "value": {
+        "width": 2560,
+        "height": 1600
+      },
+      "attrs": {
+        "os": "mac"
+      }
+    },
+    {
+      "value": {
+        "width": 2880,
+        "height": 1800
+      },
+      "attrs": {
+        "os": "mac"
+      }
+    }
+  ],
+  "audio": [
+    {
+      "attrs": {
+        "browser": "chrome",
+        "os": [
+          "windows",
+          "mac"
+        ]
+      },
+      "value": [
+        {
+          "format": "audio/aac",
+          "value": "probably"
+        },
+        {
+          "format": "audio/flac",
+          "value": "probably"
+        },
+        {
+          "format": "audio/mpeg",
+          "value": "probably"
+        },
+        {
+          "format": "audio/mp4; codecs=\"mp4a.40.2\"",
+          "value": "probably"
+        },
+        {
+          "format": "audio/ogg; codecs=\"flac\"",
+          "value": "probably"
+        },
+        {
+          "format": "audio/ogg; codecs=\"vorbis\"",
+          "value": "probably"
+        },
+        {
+          "format": "audio/ogg; codecs=\"opus\"",
+          "value": "probably"
+        },
+        {
+          "format": "audio/wav; codecs=\"1\"",
+          "value": "probably"
+        },
+        {
+          "format": "audio/webm; codecs=\"vorbis\"",
+          "value": "probably"
+        },
+        {
+          "format": "audio/webm; codecs=\"opus\"",
+          "value": "probably"
+        }
+      ]
+    }
+  ],
+  "video": [
+    {
+      "attrs": {
+        "browser": [
+          "edge",
+          "chrome",
+          "firefox"
+        ],
+        "os": [
+          "windows",
+          "mac"
+        ]
+      },
+      "value": [
+        {
+          "format": "video/mp4; codecs=\"flac\"",
+          "value": "probably"
+        },
+        {
+          "format": "video/mp4; codecs=\"avc1.42E01E\"",
+          "value": "probably"
+        },
+        {
+          "format": "video/ogg; codecs=\"theora\"",
+          "value": "probably"
+        },
+        {
+          "format": "video/ogg; codecs=\"opus\"",
+          "value": "probably"
+        },
+        {
+          "format": "video/webm; codecs=\"vp9, opus\"",
+          "value": "probably"
+        },
+        {
+          "format": "video/webm; codecs=\"vp8, vorbis\"",
+          "value": "probably"
+        }
+      ]
+    }
+  ],
+  "allPlugins": [
+    {
+      "value": [
+        {
+          "0": {
+            "description": "Portable Document Format",
+            "suffixes": "pdf",
+            "type": "application/pdf"
+          },
+          "1": {
+            "description": "Portable Document Format",
+            "suffixes": "pdf",
+            "type": "text/pdf"
+          },
+          "name": "PDF Viewer",
+          "description": "Portable Document Format",
+          "filename": "internal-pdf-viewer",
+          "length": 2
+        },
+        {
+          "0": {
+            "description": "Portable Document Format",
+            "suffixes": "pdf",
+            "type": "application/pdf"
+          },
+          "1": {
+            "description": "Portable Document Format",
+            "suffixes": "pdf",
+            "type": "text/pdf"
+          },
+          "name": "Chrome PDF Viewer",
+          "description": "Portable Document Format",
+          "filename": "internal-pdf-viewer",
+          "length": 2
+        },
+        {
+          "0": {
+            "description": "Portable Document Format",
+            "suffixes": "pdf",
+            "type": "application/pdf"
+          },
+          "1": {
+            "description": "Portable Document Format",
+            "suffixes": "pdf",
+            "type": "text/pdf"
+          },
+          "name": "Chromium PDF Viewer",
+          "description": "Portable Document Format",
+          "filename": "internal-pdf-viewer",
+          "length": 2
+        },
+        {
+          "0": {
+            "description": "Portable Document Format",
+            "suffixes": "pdf",
+            "type": "application/pdf"
+          },
+          "1": {
+            "description": "Portable Document Format",
+            "suffixes": "pdf",
+            "type": "text/pdf"
+          },
+          "name": "Microsoft Edge PDF Viewer",
+          "description": "Portable Document Format",
+          "filename": "internal-pdf-viewer",
+          "length": 2
+        },
+        {
+          "0": {
+            "description": "Portable Document Format",
+            "suffixes": "pdf",
+            "type": "application/pdf"
+          },
+          "1": {
+            "description": "Portable Document Format",
+            "suffixes": "pdf",
+            "type": "text/pdf"
+          },
+          "name": "WebKit built-in PDF",
+          "description": "Portable Document Format",
+          "filename": "internal-pdf-viewer",
+          "length": 2
+        }
+      ],
+      "attrs": {
+        "browser": "chrome"
+      }
+    }
+  ],
+  "allMimeTypes": [
+    {
+      "value": [
+        {
+          "suffixes": "pdf",
+          "type": "application/pdf",
+          "description": "Portable Document Format"
+        },
+        {
+          "suffixes": "pdf",
+          "type": "text/pdf",
+          "description": "Portable Document Format"
+        }
+      ],
+      "attrs": {
+        "browser": "chrome"
+      }
+    }
+  ],
+  "allDevices": [
+    {
+      "attrs": {
+        "browser": "chrome",
+        "os": [
+          "windows"
+        ]
+      },
+      "value": [
+        {
+          "deviceId": "",
+          "groupId": "ad66c18261c271d749d179130a32ffb2f7069353070ac07b016bb002e43e85fa",
+          "kind": "audioinput",
+          "label": ""
+        },
+        {
+          "deviceId": "",
+          "groupId": "df1d9aeb850bd9e2a4beba1a7775a4334df188ebe734a87fd098d71c3a98565c",
+          "kind": "videoinput",
+          "label": ""
+        },
+        {
+          "deviceId": "",
+          "groupId": "ad66c18261c271d749d179130a32ffb2f7069353070ac07b016bb002e43e85fa",
+          "kind": "audiooutput",
+          "label": ""
+        }
+      ]
+    }
+  ],
+  "allLanguages": [
+    {
+      "value": [
+        "en-US",
+        "en"
+      ],
+      "attrs": {
+        "country": "US"
+      }
+    },
+    {
+      "value": [
+        "en-CA",
+        "en"
+      ],
+      "attrs": {
+        "country": "CA"
+      }
+    },
+    {
+      "value": [
+        "en-GB",
+        "en"
+      ],
+      "attrs": {
+        "country": "UK"
+      }
+    }
+  ]
+}

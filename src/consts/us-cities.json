@@ -1,0 +1,6623 @@
+[ 
+  [
+    "uklondon",
+    {
+      "country": "UK",
+      "city": "London",
+      "timezone": "Europe/London",
+      "stateName": "UK",
+      "stateIsoCode": "GB"
+    }
+  ],
+  [
+    "faribault",
+    {
+      "country": "US",
+      "city": "Faribault",
+      "timezone": "America/Chicago",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "mankato",
+    {
+      "country": "US",
+      "city": "Mankato",
+      "timezone": "America/Chicago",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "albertlea",
+    {
+      "country": "US",
+      "city": "Albert Lea",
+      "timezone": "America/Chicago",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "willmar",
+    {
+      "country": "US",
+      "city": "Willmar",
+      "timezone": "America/Chicago",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "brainerd",
+    {
+      "country": "US",
+      "city": "Brainerd",
+      "timezone": "America/Chicago",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "crookston",
+    {
+      "country": "US",
+      "city": "Crookston",
+      "timezone": "America/Chicago",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "hardin",
+    {
+      "country": "US",
+      "city": "Hardin",
+      "timezone": "America/Denver",
+      "stateName": "Montana",
+      "stateIsoCode": "MT"
+    }
+  ],
+  [
+    "glendive",
+    {
+      "country": "US",
+      "city": "Glendive",
+      "timezone": "America/Denver",
+      "stateName": "Montana",
+      "stateIsoCode": "MT"
+    }
+  ],
+  [
+    "dillon",
+    {
+      "country": "US",
+      "city": "Dillon",
+      "timezone": "America/Denver",
+      "stateName": "South Carolina",
+      "stateIsoCode": "SC"
+    }
+  ],
+  [
+    "polson",
+    {
+      "country": "US",
+      "city": "Polson",
+      "timezone": "America/Denver",
+      "stateName": "Montana",
+      "stateIsoCode": "MT"
+    }
+  ],
+  [
+    "devilslake",
+    {
+      "country": "US",
+      "city": "Devils Lake",
+      "timezone": "America/Chicago",
+      "stateName": "North Dakota",
+      "stateIsoCode": "ND"
+    }
+  ],
+  [
+    "burley",
+    {
+      "country": "US",
+      "city": "Burley",
+      "timezone": "America/Boise",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "wallace",
+    {
+      "country": "US",
+      "city": "Wallace",
+      "timezone": "America/Los_Angeles",
+      "stateName": "North Carolina",
+      "stateIsoCode": "NC"
+    }
+  ],
+  [
+    "kennewick",
+    {
+      "country": "US",
+      "city": "Kennewick",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "centralia",
+    {
+      "country": "US",
+      "city": "Centralia",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "glendale",
+    {
+      "country": "US",
+      "city": "Glendale",
+      "timezone": "America/Phoenix",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "safford",
+    {
+      "country": "US",
+      "city": "Safford",
+      "timezone": "America/Phoenix",
+      "stateName": "Arizona",
+      "stateIsoCode": "AZ"
+    }
+  ],
+  [
+    "casagrande",
+    {
+      "country": "US",
+      "city": "Casa Grande",
+      "timezone": "America/Phoenix",
+      "stateName": "Arizona",
+      "stateIsoCode": "AZ"
+    }
+  ],
+  [
+    "mesa",
+    {
+      "country": "US",
+      "city": "Mesa",
+      "timezone": "America/Phoenix",
+      "stateName": "Arizona",
+      "stateIsoCode": "AZ"
+    }
+  ],
+  [
+    "lakehavasucity",
+    {
+      "country": "US",
+      "city": "Lake Havasu City",
+      "timezone": "America/Phoenix",
+      "stateName": "Arizona",
+      "stateIsoCode": "AZ"
+    }
+  ],
+  [
+    "berkeley",
+    {
+      "country": "US",
+      "city": "Berkeley",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "nationalcity",
+    {
+      "country": "US",
+      "city": "National City",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "pasorobles",
+    {
+      "country": "US",
+      "city": "Paso Robles",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "riverside",
+    {
+      "country": "US",
+      "city": "Riverside",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "delano",
+    {
+      "country": "US",
+      "city": "Delano",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "sanmateo",
+    {
+      "country": "US",
+      "city": "San Mateo",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "vallejo",
+    {
+      "country": "US",
+      "city": "Vallejo",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "glenwoodsprings",
+    {
+      "country": "US",
+      "city": "Glenwood Springs",
+      "timezone": "America/Denver",
+      "stateName": "Colorado",
+      "stateIsoCode": "CO"
+    }
+  ],
+  [
+    "aurora",
+    {
+      "country": "US",
+      "city": "Aurora",
+      "timezone": "America/Denver",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "greeley",
+    {
+      "country": "US",
+      "city": "Greeley",
+      "timezone": "America/Denver",
+      "stateName": "Nebraska",
+      "stateIsoCode": "NE"
+    }
+  ],
+  [
+    "tonopah",
+    {
+      "country": "US",
+      "city": "Tonopah",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Nevada",
+      "stateIsoCode": "NV"
+    }
+  ],
+  [
+    "deming",
+    {
+      "country": "US",
+      "city": "Deming",
+      "timezone": "America/Denver",
+      "stateName": "New Mexico",
+      "stateIsoCode": "NM"
+    }
+  ],
+  [
+    "truthorconsequences",
+    {
+      "country": "US",
+      "city": "Truth or Consequences",
+      "timezone": "America/Denver",
+      "stateName": "New Mexico",
+      "stateIsoCode": "NM"
+    }
+  ],
+  [
+    "lasvegas",
+    {
+      "country": "US",
+      "city": "Las Vegas",
+      "timezone": "America/Denver",
+      "stateName": "New Mexico",
+      "stateIsoCode": "NM"
+    }
+  ],
+  [
+    "farmington",
+    {
+      "country": "US",
+      "city": "Farmington",
+      "timezone": "America/Denver",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "springfield",
+    {
+      "country": "US",
+      "city": "Springfield",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "tillamook",
+    {
+      "country": "US",
+      "city": "Tillamook",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "ontario",
+    {
+      "country": "US",
+      "city": "Ontario",
+      "timezone": "America/Boise",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "lagrande",
+    {
+      "country": "US",
+      "city": "La Grande",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "richfield",
+    {
+      "country": "US",
+      "city": "Richfield",
+      "timezone": "America/Denver",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "nephi",
+    {
+      "country": "US",
+      "city": "Nephi",
+      "timezone": "America/Denver",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "lander",
+    {
+      "country": "US",
+      "city": "Lander",
+      "timezone": "America/Denver",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "powell",
+    {
+      "country": "US",
+      "city": "Powell",
+      "timezone": "America/Denver",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "paragould",
+    {
+      "country": "US",
+      "city": "Paragould",
+      "timezone": "America/Chicago",
+      "stateName": "Arkansas",
+      "stateIsoCode": "AR"
+    }
+  ],
+  [
+    "iowacity",
+    {
+      "country": "US",
+      "city": "Iowa City",
+      "timezone": "America/Chicago",
+      "stateName": "Iowa",
+      "stateIsoCode": "IA"
+    }
+  ],
+  [
+    "ottumwa",
+    {
+      "country": "US",
+      "city": "Ottumwa",
+      "timezone": "America/Chicago",
+      "stateName": "Iowa",
+      "stateIsoCode": "IA"
+    }
+  ],
+  [
+    "spencer",
+    {
+      "country": "US",
+      "city": "Spencer",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "hutchinson",
+    {
+      "country": "US",
+      "city": "Hutchinson",
+      "timezone": "America/Chicago",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "kansascity",
+    {
+      "country": "US",
+      "city": "Kansas City",
+      "timezone": "America/Chicago",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "lawrence",
+    {
+      "country": "US",
+      "city": "Lawrence",
+      "timezone": "America/Chicago",
+      "stateName": "New York",
+      "stateIsoCode": "NY"
+    }
+  ],
+  [
+    "gardencity",
+    {
+      "country": "US",
+      "city": "Garden City",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "manhattan",
+    {
+      "country": "US",
+      "city": "Manhattan",
+      "timezone": "America/Chicago",
+      "stateName": "New York",
+      "stateIsoCode": "NY"
+    }
+  ],
+  [
+    "hays",
+    {
+      "country": "US",
+      "city": "Hays",
+      "timezone": "America/Chicago",
+      "stateName": "North Carolina",
+      "stateIsoCode": "NC"
+    }
+  ],
+  [
+    "goodland",
+    {
+      "country": "US",
+      "city": "Goodland",
+      "timezone": "America/Denver",
+      "stateName": "Kansas",
+      "stateIsoCode": "KS"
+    }
+  ],
+  [
+    "independence",
+    {
+      "country": "US",
+      "city": "Independence",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "kirksville",
+    {
+      "country": "US",
+      "city": "Kirksville",
+      "timezone": "America/Chicago",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "kearney",
+    {
+      "country": "US",
+      "city": "Kearney",
+      "timezone": "America/Chicago",
+      "stateName": "Nebraska",
+      "stateIsoCode": "NE"
+    }
+  ],
+  [
+    "grandisland",
+    {
+      "country": "US",
+      "city": "Grand Island",
+      "timezone": "America/Chicago",
+      "stateName": "New York",
+      "stateIsoCode": "NY"
+    }
+  ],
+  [
+    "alliance",
+    {
+      "country": "US",
+      "city": "Alliance",
+      "timezone": "America/Denver",
+      "stateName": "Ohio",
+      "stateIsoCode": "OH"
+    }
+  ],
+  [
+    "bartlesville",
+    {
+      "country": "US",
+      "city": "Bartlesville",
+      "timezone": "America/Chicago",
+      "stateName": "Oklahoma",
+      "stateIsoCode": "OK"
+    }
+  ],
+  [
+    "enid",
+    {
+      "country": "US",
+      "city": "Enid",
+      "timezone": "America/Chicago",
+      "stateName": "Oklahoma",
+      "stateIsoCode": "OK"
+    }
+  ],
+  [
+    "ardmore",
+    {
+      "country": "US",
+      "city": "Ardmore",
+      "timezone": "America/Chicago",
+      "stateName": "Tennessee",
+      "stateIsoCode": "TN"
+    }
+  ],
+  [
+    "mcalester",
+    {
+      "country": "US",
+      "city": "McAlester",
+      "timezone": "America/Chicago",
+      "stateName": "Oklahoma",
+      "stateIsoCode": "OK"
+    }
+  ],
+  [
+    "stillwater",
+    {
+      "country": "US",
+      "city": "Stillwater",
+      "timezone": "America/Chicago",
+      "stateName": "Oklahoma",
+      "stateIsoCode": "OK"
+    }
+  ],
+  [
+    "lead",
+    {
+      "country": "US",
+      "city": "Lead",
+      "timezone": "America/Denver",
+      "stateName": "South Dakota",
+      "stateIsoCode": "SD"
+    }
+  ],
+  [
+    "slidell",
+    {
+      "country": "US",
+      "city": "Slidell",
+      "timezone": "America/Chicago",
+      "stateName": "Louisiana",
+      "stateIsoCode": "LA"
+    }
+  ],
+  [
+    "lakecharles",
+    {
+      "country": "US",
+      "city": "Lake Charles",
+      "timezone": "America/Chicago",
+      "stateName": "Louisiana",
+      "stateIsoCode": "LA"
+    }
+  ],
+  [
+    "metairie",
+    {
+      "country": "US",
+      "city": "Metairie",
+      "timezone": "America/Chicago",
+      "stateName": "Louisiana",
+      "stateIsoCode": "LA"
+    }
+  ],
+  [
+    "newiberia",
+    {
+      "country": "US",
+      "city": "New Iberia",
+      "timezone": "America/Chicago",
+      "stateName": "Louisiana",
+      "stateIsoCode": "LA"
+    }
+  ],
+  [
+    "bryan",
+    {
+      "country": "US",
+      "city": "Bryan",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "sanmarcos",
+    {
+      "country": "US",
+      "city": "San Marcos",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "longview",
+    {
+      "country": "US",
+      "city": "Longview",
+      "timezone": "America/Chicago",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "mcallen",
+    {
+      "country": "US",
+      "city": "McAllen",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "harlingen",
+    {
+      "country": "US",
+      "city": "Harlingen",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "alice",
+    {
+      "country": "US",
+      "city": "Alice",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "newbraunfels",
+    {
+      "country": "US",
+      "city": "New Braunfels",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "cleburne",
+    {
+      "country": "US",
+      "city": "Cleburne",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "brownwood",
+    {
+      "country": "US",
+      "city": "Brownwood",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "alpine",
+    {
+      "country": "US",
+      "city": "Alpine",
+      "timezone": "America/Chicago",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "vanhorn",
+    {
+      "country": "US",
+      "city": "Van Horn",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "bigspring",
+    {
+      "country": "US",
+      "city": "Big Spring",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "vernon",
+    {
+      "country": "US",
+      "city": "Vernon",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "childress",
+    {
+      "country": "US",
+      "city": "Childress",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "hereford",
+    {
+      "country": "US",
+      "city": "Hereford",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "dalhart",
+    {
+      "country": "US",
+      "city": "Dalhart",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "texascity",
+    {
+      "country": "US",
+      "city": "Texas City",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "pasadena",
+    {
+      "country": "US",
+      "city": "Pasadena",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "baytown",
+    {
+      "country": "US",
+      "city": "Baytown",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "arlington",
+    {
+      "country": "US",
+      "city": "Arlington",
+      "timezone": "America/Chicago",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "ashburn",
+    {
+      "country": "US",
+      "city": "Ashburn",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "newlondon",
+    {
+      "country": "US",
+      "city": "New London",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "stamford",
+    {
+      "country": "US",
+      "city": "Stamford",
+      "timezone": "America/New_York",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "waterbury",
+    {
+      "country": "US",
+      "city": "Waterbury",
+      "timezone": "America/New_York",
+      "stateName": "Vermont",
+      "stateIsoCode": "VT"
+    }
+  ],
+  [
+    "newbedford",
+    {
+      "country": "US",
+      "city": "New Bedford",
+      "timezone": "America/New_York",
+      "stateName": "Massachusetts",
+      "stateIsoCode": "MA"
+    }
+  ],
+  [
+    "salem",
+    {
+      "country": "US",
+      "city": "Salem",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "pittsfield",
+    {
+      "country": "US",
+      "city": "Pittsfield",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "montpelier",
+    {
+      "country": "US",
+      "city": "Montpelier",
+      "timezone": "America/New_York",
+      "stateName": "Vermont",
+      "stateIsoCode": "VT"
+    }
+  ],
+  [
+    "auburn",
+    {
+      "country": "US",
+      "city": "Auburn",
+      "timezone": "America/Chicago",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "florence",
+    {
+      "country": "US",
+      "city": "Florence",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "winterhaven",
+    {
+      "country": "US",
+      "city": "Winter Haven",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "melbourne",
+    {
+      "country": "US",
+      "city": "Melbourne",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "homestead",
+    {
+      "country": "US",
+      "city": "Homestead",
+      "timezone": "America/New_York",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "sanford",
+    {
+      "country": "US",
+      "city": "Sanford",
+      "timezone": "America/New_York",
+      "stateName": "North Carolina",
+      "stateIsoCode": "NC"
+    }
+  ],
+  [
+    "miamibeach",
+    {
+      "country": "US",
+      "city": "Miami Beach",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "coralsprings",
+    {
+      "country": "US",
+      "city": "Coral Springs",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "portcharlotte",
+    {
+      "country": "US",
+      "city": "Port Charlotte",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "springhill",
+    {
+      "country": "US",
+      "city": "Spring Hill",
+      "timezone": "America/New_York",
+      "stateName": "Tennessee",
+      "stateIsoCode": "TN"
+    }
+  ],
+  [
+    "palmcoast",
+    {
+      "country": "US",
+      "city": "Palm Coast",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "palatka",
+    {
+      "country": "US",
+      "city": "Palatka",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "leesburg",
+    {
+      "country": "US",
+      "city": "Leesburg",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "lakecity",
+    {
+      "country": "US",
+      "city": "Lake City",
+      "timezone": "America/New_York",
+      "stateName": "South Carolina",
+      "stateIsoCode": "SC"
+    }
+  ],
+  [
+    "crestview",
+    {
+      "country": "US",
+      "city": "Crestview",
+      "timezone": "America/Chicago",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "panamacity",
+    {
+      "country": "US",
+      "city": "Panama City",
+      "timezone": "America/Chicago",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "dalton",
+    {
+      "country": "US",
+      "city": "Dalton",
+      "timezone": "America/New_York",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "marietta",
+    {
+      "country": "US",
+      "city": "Marietta",
+      "timezone": "America/New_York",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "waycross",
+    {
+      "country": "US",
+      "city": "Waycross",
+      "timezone": "America/New_York",
+      "stateName": "Georgia",
+      "stateIsoCode": "GA"
+    }
+  ],
+  [
+    "lagrange",
+    {
+      "country": "US",
+      "city": "La Grange",
+      "timezone": "America/New_York",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "southaven",
+    {
+      "country": "US",
+      "city": "Southaven",
+      "timezone": "America/Chicago",
+      "stateName": "Mississippi",
+      "stateIsoCode": "MS"
+    }
+  ],
+  [
+    "meridian",
+    {
+      "country": "US",
+      "city": "Meridian",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "laurel",
+    {
+      "country": "US",
+      "city": "Laurel",
+      "timezone": "America/Chicago",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "spartanburg",
+    {
+      "country": "US",
+      "city": "Spartanburg",
+      "timezone": "America/New_York",
+      "stateName": "South Carolina",
+      "stateIsoCode": "SC"
+    }
+  ],
+  [
+    "orangeburg",
+    {
+      "country": "US",
+      "city": "Orangeburg",
+      "timezone": "America/New_York",
+      "stateName": "South Carolina",
+      "stateIsoCode": "SC"
+    }
+  ],
+  [
+    "galesburg",
+    {
+      "country": "US",
+      "city": "Galesburg",
+      "timezone": "America/Chicago",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "joliet",
+    {
+      "country": "US",
+      "city": "Joliet",
+      "timezone": "America/Chicago",
+      "stateName": "Illinois",
+      "stateIsoCode": "IL"
+    }
+  ],
+  [
+    "capegirardeau",
+    {
+      "country": "US",
+      "city": "Cape Girardeau",
+      "timezone": "America/Chicago",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "rockford",
+    {
+      "country": "US",
+      "city": "Rockford",
+      "timezone": "America/Chicago",
+      "stateName": "Ohio",
+      "stateIsoCode": "OH"
+    }
+  ],
+  [
+    "evanston",
+    {
+      "country": "US",
+      "city": "Evanston",
+      "timezone": "America/Chicago",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "rockisland",
+    {
+      "country": "US",
+      "city": "Rock Island",
+      "timezone": "America/Chicago",
+      "stateName": "Illinois",
+      "stateIsoCode": "IL"
+    }
+  ],
+  [
+    "elgin",
+    {
+      "country": "US",
+      "city": "Elgin",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "richmond",
+    {
+      "country": "US",
+      "city": "Richmond",
+      "timezone": "America/Indiana/Indianapolis",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "terrehaute",
+    {
+      "country": "US",
+      "city": "Terre Haute",
+      "timezone": "America/Indiana/Indianapolis",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "lafayette",
+    {
+      "country": "US",
+      "city": "Lafayette",
+      "timezone": "America/Indiana/Indianapolis",
+      "stateName": "Tennessee",
+      "stateIsoCode": "TN"
+    }
+  ],
+  [
+    "marion",
+    {
+      "country": "US",
+      "city": "Marion",
+      "timezone": "America/Indiana/Indianapolis",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "southbend",
+    {
+      "country": "US",
+      "city": "South Bend",
+      "timezone": "America/Indiana/Indianapolis",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "newalbany",
+    {
+      "country": "US",
+      "city": "New Albany",
+      "timezone": "America/Kentucky/Louisville",
+      "stateName": "Ohio",
+      "stateIsoCode": "OH"
+    }
+  ],
+  [
+    "elkhart",
+    {
+      "country": "US",
+      "city": "Elkhart",
+      "timezone": "America/Indiana/Indianapolis",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "hopkinsville",
+    {
+      "country": "US",
+      "city": "Hopkinsville",
+      "timezone": "America/Chicago",
+      "stateName": "Kentucky",
+      "stateIsoCode": "KY"
+    }
+  ],
+  [
+    "london",
+    {
+      "country": "US",
+      "city": "London",
+      "timezone": "America/New_York",
+      "stateName": "Ohio",
+      "stateIsoCode": "OH"
+    }
+  ],
+  [
+    "madisonville",
+    {
+      "country": "US",
+      "city": "Madisonville",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "rockymount",
+    {
+      "country": "US",
+      "city": "Rocky Mount",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "salisbury",
+    {
+      "country": "US",
+      "city": "Salisbury",
+      "timezone": "America/New_York",
+      "stateName": "Vermont",
+      "stateIsoCode": "VT"
+    }
+  ],
+  [
+    "durham",
+    {
+      "country": "US",
+      "city": "Durham",
+      "timezone": "America/New_York",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "lumberton",
+    {
+      "country": "US",
+      "city": "Lumberton",
+      "timezone": "America/New_York",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "zanesville",
+    {
+      "country": "US",
+      "city": "Zanesville",
+      "timezone": "America/New_York",
+      "stateName": "Ohio",
+      "stateIsoCode": "OH"
+    }
+  ],
+  [
+    "mansfield",
+    {
+      "country": "US",
+      "city": "Mansfield",
+      "timezone": "America/New_York",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "bowlinggreen",
+    {
+      "country": "US",
+      "city": "Bowling Green",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "lancaster",
+    {
+      "country": "US",
+      "city": "Lancaster",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "johnsoncity",
+    {
+      "country": "US",
+      "city": "Johnson City",
+      "timezone": "America/New_York",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "kingsport",
+    {
+      "country": "US",
+      "city": "Kingsport",
+      "timezone": "America/New_York",
+      "stateName": "Tennessee",
+      "stateIsoCode": "TN"
+    }
+  ],
+  [
+    "columbia",
+    {
+      "country": "US",
+      "city": "Columbia",
+      "timezone": "America/Chicago",
+      "stateName": "Tennessee",
+      "stateIsoCode": "TN"
+    }
+  ],
+  [
+    "blacksburg",
+    {
+      "country": "US",
+      "city": "Blacksburg",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "harrisonburg",
+    {
+      "country": "US",
+      "city": "Harrisonburg",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "petersburg",
+    {
+      "country": "US",
+      "city": "Petersburg",
+      "timezone": "America/New_York",
+      "stateName": "West Virginia",
+      "stateIsoCode": "WV"
+    }
+  ],
+  [
+    "hampton",
+    {
+      "country": "US",
+      "city": "Hampton",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "sheboygan",
+    {
+      "country": "US",
+      "city": "Sheboygan",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "waukesha",
+    {
+      "country": "US",
+      "city": "Waukesha",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "lacrosse",
+    {
+      "country": "US",
+      "city": "La Crosse",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "eauclaire",
+    {
+      "country": "US",
+      "city": "Eau Claire",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "tomah",
+    {
+      "country": "US",
+      "city": "Tomah",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "janesville",
+    {
+      "country": "US",
+      "city": "Janesville",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "appleton",
+    {
+      "country": "US",
+      "city": "Appleton",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "parkersburg",
+    {
+      "country": "US",
+      "city": "Parkersburg",
+      "timezone": "America/New_York",
+      "stateName": "West Virginia",
+      "stateIsoCode": "WV"
+    }
+  ],
+  [
+    "whitesulphursprings",
+    {
+      "country": "US",
+      "city": "White Sulphur Springs",
+      "timezone": "America/New_York",
+      "stateName": "West Virginia",
+      "stateIsoCode": "WV"
+    }
+  ],
+  [
+    "clarksburg",
+    {
+      "country": "US",
+      "city": "Clarksburg",
+      "timezone": "America/New_York",
+      "stateName": "West Virginia",
+      "stateIsoCode": "WV"
+    }
+  ],
+  [
+    "dover",
+    {
+      "country": "US",
+      "city": "Dover",
+      "timezone": "America/New_York",
+      "stateName": "Vermont",
+      "stateIsoCode": "VT"
+    }
+  ],
+  [
+    "annapolis",
+    {
+      "country": "US",
+      "city": "Annapolis",
+      "timezone": "America/New_York",
+      "stateName": "Maryland",
+      "stateIsoCode": "MD"
+    }
+  ],
+  [
+    "hagerstown",
+    {
+      "country": "US",
+      "city": "Hagerstown",
+      "timezone": "America/New_York",
+      "stateName": "Maryland",
+      "stateIsoCode": "MD"
+    }
+  ],
+  [
+    "paterson",
+    {
+      "country": "US",
+      "city": "Paterson",
+      "timezone": "America/New_York",
+      "stateName": "New Jersey",
+      "stateIsoCode": "NJ"
+    }
+  ],
+  [
+    "saratogasprings",
+    {
+      "country": "US",
+      "city": "Saratoga Springs",
+      "timezone": "America/New_York",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "poughkeepsie",
+    {
+      "country": "US",
+      "city": "Poughkeepsie",
+      "timezone": "America/New_York",
+      "stateName": "New York",
+      "stateIsoCode": "NY"
+    }
+  ],
+  [
+    "plattsburg",
+    {
+      "country": "US",
+      "city": "Plattsburg",
+      "timezone": "America/New_York",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "beaverfalls",
+    {
+      "country": "US",
+      "city": "Beaver Falls",
+      "timezone": "America/New_York",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "altoona",
+    {
+      "country": "US",
+      "city": "Altoona",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "williamsport",
+    {
+      "country": "US",
+      "city": "Williamsport",
+      "timezone": "America/New_York",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "allentown",
+    {
+      "country": "US",
+      "city": "Allentown",
+      "timezone": "America/New_York",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "waterville",
+    {
+      "country": "US",
+      "city": "Waterville",
+      "timezone": "America/New_York",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "calais",
+    {
+      "country": "US",
+      "city": "Calais",
+      "timezone": "America/New_York",
+      "stateName": "Maine",
+      "stateIsoCode": "ME"
+    }
+  ],
+  [
+    "houlton",
+    {
+      "country": "US",
+      "city": "Houlton",
+      "timezone": "America/New_York",
+      "stateName": "Maine",
+      "stateIsoCode": "ME"
+    }
+  ],
+  [
+    "bentonharbor",
+    {
+      "country": "US",
+      "city": "Benton Harbor",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "battlecreek",
+    {
+      "country": "US",
+      "city": "Battle Creek",
+      "timezone": "America/Detroit",
+      "stateName": "Nebraska",
+      "stateIsoCode": "NE"
+    }
+  ],
+  [
+    "baycity",
+    {
+      "country": "US",
+      "city": "Bay City",
+      "timezone": "America/Detroit",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "alpena",
+    {
+      "country": "US",
+      "city": "Alpena",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "ironmountain",
+    {
+      "country": "US",
+      "city": "Iron Mountain",
+      "timezone": "America/Menominee",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "ironwood",
+    {
+      "country": "US",
+      "city": "Ironwood",
+      "timezone": "America/Menominee",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "sandpoint",
+    {
+      "country": "US",
+      "city": "Sand Point",
+      "timezone": "America/Anchorage",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "perryville",
+    {
+      "country": "US",
+      "city": "Perryville",
+      "timezone": "America/Anchorage",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "dillingham",
+    {
+      "country": "US",
+      "city": "Dillingham",
+      "timezone": "America/Anchorage",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "mountainvillage",
+    {
+      "country": "US",
+      "city": "Mountain Village",
+      "timezone": "America/Nome",
+      "stateName": "Colorado",
+      "stateIsoCode": "CO"
+    }
+  ],
+  [
+    "whittier",
+    {
+      "country": "US",
+      "city": "Whittier",
+      "timezone": "America/Anchorage",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "eagle",
+    {
+      "country": "US",
+      "city": "Eagle",
+      "timezone": "America/Anchorage",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "virginia",
+    {
+      "country": "US",
+      "city": "Virginia",
+      "timezone": "America/Chicago",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "winona",
+    {
+      "country": "US",
+      "city": "Winona",
+      "timezone": "America/Chicago",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "rochester",
+    {
+      "country": "US",
+      "city": "Rochester",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "lakeville",
+    {
+      "country": "US",
+      "city": "Lakeville",
+      "timezone": "America/Chicago",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "ely",
+    {
+      "country": "US",
+      "city": "Ely",
+      "timezone": "America/Chicago",
+      "stateName": "Nevada",
+      "stateIsoCode": "NV"
+    }
+  ],
+  [
+    "moorhead",
+    {
+      "country": "US",
+      "city": "Moorhead",
+      "timezone": "America/Chicago",
+      "stateName": "Mississippi",
+      "stateIsoCode": "MS"
+    }
+  ],
+  [
+    "milescity",
+    {
+      "country": "US",
+      "city": "Miles City",
+      "timezone": "America/Denver",
+      "stateName": "Montana",
+      "stateIsoCode": "MT"
+    }
+  ],
+  [
+    "bozeman",
+    {
+      "country": "US",
+      "city": "Bozeman",
+      "timezone": "America/Denver",
+      "stateName": "Montana",
+      "stateIsoCode": "MT"
+    }
+  ],
+  [
+    "glasgow",
+    {
+      "country": "US",
+      "city": "Glasgow",
+      "timezone": "America/Denver",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "dickinson",
+    {
+      "country": "US",
+      "city": "Dickinson",
+      "timezone": "America/Denver",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "jamestown",
+    {
+      "country": "US",
+      "city": "Jamestown",
+      "timezone": "America/Chicago",
+      "stateName": "Tennessee",
+      "stateIsoCode": "TN"
+    }
+  ],
+  [
+    "williston",
+    {
+      "country": "US",
+      "city": "Williston",
+      "timezone": "America/Chicago",
+      "stateName": "Vermont",
+      "stateIsoCode": "VT"
+    }
+  ],
+  [
+    "lihue",
+    {
+      "country": "US",
+      "city": "Lihue",
+      "timezone": "Pacific/Honolulu",
+      "stateName": "Hawaii",
+      "stateIsoCode": "HI"
+    }
+  ],
+  [
+    "wailuku",
+    {
+      "country": "US",
+      "city": "Wailuku",
+      "timezone": "Pacific/Honolulu",
+      "stateName": "Hawaii",
+      "stateIsoCode": "HI"
+    }
+  ],
+  [
+    "twinfalls",
+    {
+      "country": "US",
+      "city": "Twin Falls",
+      "timezone": "America/Boise",
+      "stateName": "Idaho",
+      "stateIsoCode": "ID"
+    }
+  ],
+  [
+    "caldwell",
+    {
+      "country": "US",
+      "city": "Caldwell",
+      "timezone": "America/Boise",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "salmon",
+    {
+      "country": "US",
+      "city": "Salmon",
+      "timezone": "America/Boise",
+      "stateName": "Idaho",
+      "stateIsoCode": "ID"
+    }
+  ],
+  [
+    "coeurd'alene",
+    {
+      "country": "US",
+      "city": "Coeur d'Alene",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Idaho",
+      "stateIsoCode": "ID"
+    }
+  ],
+  [
+    "richland",
+    {
+      "country": "US",
+      "city": "Richland",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "bellingham",
+    {
+      "country": "US",
+      "city": "Bellingham",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "wallawalla",
+    {
+      "country": "US",
+      "city": "Walla Walla",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "aberdeen",
+    {
+      "country": "US",
+      "city": "Aberdeen",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "bremerton",
+    {
+      "country": "US",
+      "city": "Bremerton",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "everett",
+    {
+      "country": "US",
+      "city": "Everett",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "bullheadcity",
+    {
+      "country": "US",
+      "city": "Bullhead City",
+      "timezone": "America/Phoenix",
+      "stateName": "Arizona",
+      "stateIsoCode": "AZ"
+    }
+  ],
+  [
+    "winslow",
+    {
+      "country": "US",
+      "city": "Winslow",
+      "timezone": "America/Denver",
+      "stateName": "Maine",
+      "stateIsoCode": "ME"
+    }
+  ],
+  [
+    "gilabend",
+    {
+      "country": "US",
+      "city": "Gila Bend",
+      "timezone": "America/Phoenix",
+      "stateName": "Arizona",
+      "stateIsoCode": "AZ"
+    }
+  ],
+  [
+    "tombstone",
+    {
+      "country": "US",
+      "city": "Tombstone",
+      "timezone": "America/Phoenix",
+      "stateName": "Arizona",
+      "stateIsoCode": "AZ"
+    }
+  ],
+  [
+    "willcox",
+    {
+      "country": "US",
+      "city": "Willcox",
+      "timezone": "America/Phoenix",
+      "stateName": "Arizona",
+      "stateIsoCode": "AZ"
+    }
+  ],
+  [
+    "scottsdale",
+    {
+      "country": "US",
+      "city": "Scottsdale",
+      "timezone": "America/Phoenix",
+      "stateName": "Arizona",
+      "stateIsoCode": "AZ"
+    }
+  ],
+  [
+    "kingman",
+    {
+      "country": "US",
+      "city": "Kingman",
+      "timezone": "America/Phoenix",
+      "stateName": "Kansas",
+      "stateIsoCode": "KS"
+    }
+  ],
+  [
+    "grandcanyon",
+    {
+      "country": "US",
+      "city": "Grand Canyon",
+      "timezone": "America/Phoenix",
+      "stateName": "Arizona",
+      "stateIsoCode": "AZ"
+    }
+  ],
+  [
+    "arcata",
+    {
+      "country": "US",
+      "city": "Arcata",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "stockton",
+    {
+      "country": "US",
+      "city": "Stockton",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "barstow",
+    {
+      "country": "US",
+      "city": "Barstow",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "victorville",
+    {
+      "country": "US",
+      "city": "Victorville",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "visalia",
+    {
+      "country": "US",
+      "city": "Visalia",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "elcentro",
+    {
+      "country": "US",
+      "city": "El Centro",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "sanluisobispo",
+    {
+      "country": "US",
+      "city": "San Luis Obispo",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "merced",
+    {
+      "country": "US",
+      "city": "Merced",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "yubacity",
+    {
+      "country": "US",
+      "city": "Yuba City",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "redding",
+    {
+      "country": "US",
+      "city": "Redding",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "santarosa",
+    {
+      "country": "US",
+      "city": "Santa Rosa",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "oceanside",
+    {
+      "country": "US",
+      "city": "Oceanside",
+      "timezone": "America/Los_Angeles",
+      "stateName": "New York",
+      "stateIsoCode": "NY"
+    }
+  ],
+  [
+    "modesto",
+    {
+      "country": "US",
+      "city": "Modesto",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "irvine",
+    {
+      "country": "US",
+      "city": "Irvine",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Kentucky",
+      "stateIsoCode": "KY"
+    }
+  ],
+  [
+    "ukiah",
+    {
+      "country": "US",
+      "city": "Ukiah",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "needles",
+    {
+      "country": "US",
+      "city": "Needles",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "bishop",
+    {
+      "country": "US",
+      "city": "Bishop",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "palmsprings",
+    {
+      "country": "US",
+      "city": "Palm Springs",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "santamaria",
+    {
+      "country": "US",
+      "city": "Santa Maria",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "tulare",
+    {
+      "country": "US",
+      "city": "Tulare",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "crescentcity",
+    {
+      "country": "US",
+      "city": "Crescent City",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "fortcollins",
+    {
+      "country": "US",
+      "city": "Fort Collins",
+      "timezone": "America/Denver",
+      "stateName": "Colorado",
+      "stateIsoCode": "CO"
+    }
+  ],
+  [
+    "pueblo",
+    {
+      "country": "US",
+      "city": "Pueblo",
+      "timezone": "America/Denver",
+      "stateName": "Colorado",
+      "stateIsoCode": "CO"
+    }
+  ],
+  [
+    "lamar",
+    {
+      "country": "US",
+      "city": "Lamar",
+      "timezone": "America/Denver",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "trinidad",
+    {
+      "country": "US",
+      "city": "Trinidad",
+      "timezone": "America/Denver",
+      "stateName": "Colorado",
+      "stateIsoCode": "CO"
+    }
+  ],
+  [
+    "gunnison",
+    {
+      "country": "US",
+      "city": "Gunnison",
+      "timezone": "America/Denver",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "durango",
+    {
+      "country": "US",
+      "city": "Durango",
+      "timezone": "America/Denver",
+      "stateName": "Colorado",
+      "stateIsoCode": "CO"
+    }
+  ],
+  [
+    "montrose",
+    {
+      "country": "US",
+      "city": "Montrose",
+      "timezone": "America/Denver",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "craig",
+    {
+      "country": "US",
+      "city": "Craig",
+      "timezone": "America/Denver",
+      "stateName": "Colorado",
+      "stateIsoCode": "CO"
+    }
+  ],
+  [
+    "boulder",
+    {
+      "country": "US",
+      "city": "Boulder",
+      "timezone": "America/Denver",
+      "stateName": "Montana",
+      "stateIsoCode": "MT"
+    }
+  ],
+  [
+    "bouldercity",
+    {
+      "country": "US",
+      "city": "Boulder City",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Nevada",
+      "stateIsoCode": "NV"
+    }
+  ],
+  [
+    "winnemucca",
+    {
+      "country": "US",
+      "city": "Winnemucca",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Nevada",
+      "stateIsoCode": "NV"
+    }
+  ],
+  [
+    "roswell",
+    {
+      "country": "US",
+      "city": "Roswell",
+      "timezone": "America/Denver",
+      "stateName": "New Mexico",
+      "stateIsoCode": "NM"
+    }
+  ],
+  [
+    "clovis",
+    {
+      "country": "US",
+      "city": "Clovis",
+      "timezone": "America/Denver",
+      "stateName": "New Mexico",
+      "stateIsoCode": "NM"
+    }
+  ],
+  [
+    "lascruces",
+    {
+      "country": "US",
+      "city": "Las Cruces",
+      "timezone": "America/Denver",
+      "stateName": "New Mexico",
+      "stateIsoCode": "NM"
+    }
+  ],
+  [
+    "hobbs",
+    {
+      "country": "US",
+      "city": "Hobbs",
+      "timezone": "America/Denver",
+      "stateName": "New Mexico",
+      "stateIsoCode": "NM"
+    }
+  ],
+  [
+    "socorro",
+    {
+      "country": "US",
+      "city": "Socorro",
+      "timezone": "America/Denver",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "gallup",
+    {
+      "country": "US",
+      "city": "Gallup",
+      "timezone": "America/Denver",
+      "stateName": "New Mexico",
+      "stateIsoCode": "NM"
+    }
+  ],
+  [
+    "raton",
+    {
+      "country": "US",
+      "city": "Raton",
+      "timezone": "America/Denver",
+      "stateName": "New Mexico",
+      "stateIsoCode": "NM"
+    }
+  ],
+  [
+    "tucumcari",
+    {
+      "country": "US",
+      "city": "Tucumcari",
+      "timezone": "America/Denver",
+      "stateName": "New Mexico",
+      "stateIsoCode": "NM"
+    }
+  ],
+  [
+    "roseburg",
+    {
+      "country": "US",
+      "city": "Roseburg",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "pendleton",
+    {
+      "country": "US",
+      "city": "Pendleton",
+      "timezone": "America/Los_Angeles",
+      "stateName": "South Carolina",
+      "stateIsoCode": "SC"
+    }
+  ],
+  [
+    "johnday",
+    {
+      "country": "US",
+      "city": "John Day",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "grantspass",
+    {
+      "country": "US",
+      "city": "Grants Pass",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "corvallis",
+    {
+      "country": "US",
+      "city": "Corvallis",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "albany",
+    {
+      "country": "US",
+      "city": "Albany",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "astoria",
+    {
+      "country": "US",
+      "city": "Astoria",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "logan",
+    {
+      "country": "US",
+      "city": "Logan",
+      "timezone": "America/Denver",
+      "stateName": "West Virginia",
+      "stateIsoCode": "WV"
+    }
+  ],
+  [
+    "parowan",
+    {
+      "country": "US",
+      "city": "Parowan",
+      "timezone": "America/Denver",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "kanab",
+    {
+      "country": "US",
+      "city": "Kanab",
+      "timezone": "America/Denver",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "monticello",
+    {
+      "country": "US",
+      "city": "Monticello",
+      "timezone": "America/Denver",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "moab",
+    {
+      "country": "US",
+      "city": "Moab",
+      "timezone": "America/Denver",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "price",
+    {
+      "country": "US",
+      "city": "Price",
+      "timezone": "America/Denver",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "cedarcity",
+    {
+      "country": "US",
+      "city": "Cedar City",
+      "timezone": "America/Denver",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "vernal",
+    {
+      "country": "US",
+      "city": "Vernal",
+      "timezone": "America/Denver",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "ogden",
+    {
+      "country": "US",
+      "city": "Ogden",
+      "timezone": "America/Denver",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "greenriver",
+    {
+      "country": "US",
+      "city": "Green River",
+      "timezone": "America/Denver",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "rawlins",
+    {
+      "country": "US",
+      "city": "Rawlins",
+      "timezone": "America/Denver",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "douglas",
+    {
+      "country": "US",
+      "city": "Douglas",
+      "timezone": "America/Denver",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "riverton",
+    {
+      "country": "US",
+      "city": "Riverton",
+      "timezone": "America/Denver",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "thermopolis",
+    {
+      "country": "US",
+      "city": "Thermopolis",
+      "timezone": "America/Denver",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "gillette",
+    {
+      "country": "US",
+      "city": "Gillette",
+      "timezone": "America/Denver",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "jonesboro",
+    {
+      "country": "US",
+      "city": "Jonesboro",
+      "timezone": "America/Chicago",
+      "stateName": "Louisiana",
+      "stateIsoCode": "LA"
+    }
+  ],
+  [
+    "texarkana",
+    {
+      "country": "US",
+      "city": "Texarkana",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "pinebluff",
+    {
+      "country": "US",
+      "city": "Pine Bluff",
+      "timezone": "America/Chicago",
+      "stateName": "Arkansas",
+      "stateIsoCode": "AR"
+    }
+  ],
+  [
+    "hotsprings",
+    {
+      "country": "US",
+      "city": "Hot Springs",
+      "timezone": "America/Chicago",
+      "stateName": "South Dakota",
+      "stateIsoCode": "SD"
+    }
+  ],
+  [
+    "fortsmith",
+    {
+      "country": "US",
+      "city": "Fort Smith",
+      "timezone": "America/Chicago",
+      "stateName": "Arkansas",
+      "stateIsoCode": "AR"
+    }
+  ],
+  [
+    "fayetteville",
+    {
+      "country": "US",
+      "city": "Fayetteville",
+      "timezone": "America/Chicago",
+      "stateName": "West Virginia",
+      "stateIsoCode": "WV"
+    }
+  ],
+  [
+    "conway",
+    {
+      "country": "US",
+      "city": "Conway",
+      "timezone": "America/Chicago",
+      "stateName": "South Carolina",
+      "stateIsoCode": "SC"
+    }
+  ],
+  [
+    "eldorado",
+    {
+      "country": "US",
+      "city": "El Dorado",
+      "timezone": "America/Chicago",
+      "stateName": "Kansas",
+      "stateIsoCode": "KS"
+    }
+  ],
+  [
+    "davenport",
+    {
+      "country": "US",
+      "city": "Davenport",
+      "timezone": "America/Chicago",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "burlington",
+    {
+      "country": "US",
+      "city": "Burlington",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "dubuque",
+    {
+      "country": "US",
+      "city": "Dubuque",
+      "timezone": "America/Chicago",
+      "stateName": "Iowa",
+      "stateIsoCode": "IA"
+    }
+  ],
+  [
+    "waterloo",
+    {
+      "country": "US",
+      "city": "Waterloo",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "siouxcity",
+    {
+      "country": "US",
+      "city": "Sioux City",
+      "timezone": "America/Chicago",
+      "stateName": "Iowa",
+      "stateIsoCode": "IA"
+    }
+  ],
+  [
+    "councilbluffs",
+    {
+      "country": "US",
+      "city": "Council Bluffs",
+      "timezone": "America/Chicago",
+      "stateName": "Iowa",
+      "stateIsoCode": "IA"
+    }
+  ],
+  [
+    "ames",
+    {
+      "country": "US",
+      "city": "Ames",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "masoncity",
+    {
+      "country": "US",
+      "city": "Mason City",
+      "timezone": "America/Chicago",
+      "stateName": "Iowa",
+      "stateIsoCode": "IA"
+    }
+  ],
+  [
+    "emporia",
+    {
+      "country": "US",
+      "city": "Emporia",
+      "timezone": "America/Chicago",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "salina",
+    {
+      "country": "US",
+      "city": "Salina",
+      "timezone": "America/Chicago",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "dodgecity",
+    {
+      "country": "US",
+      "city": "Dodge City",
+      "timezone": "America/Chicago",
+      "stateName": "Kansas",
+      "stateIsoCode": "KS"
+    }
+  ],
+  [
+    "coffeyville",
+    {
+      "country": "US",
+      "city": "Coffeyville",
+      "timezone": "America/Chicago",
+      "stateName": "Kansas",
+      "stateIsoCode": "KS"
+    }
+  ],
+  [
+    "poplarbluff",
+    {
+      "country": "US",
+      "city": "Poplar Bluff",
+      "timezone": "America/Chicago",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "joplin",
+    {
+      "country": "US",
+      "city": "Joplin",
+      "timezone": "America/Chicago",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "mccook",
+    {
+      "country": "US",
+      "city": "McCook",
+      "timezone": "America/Chicago",
+      "stateName": "Nebraska",
+      "stateIsoCode": "NE"
+    }
+  ],
+  [
+    "norfolk",
+    {
+      "country": "US",
+      "city": "Norfolk",
+      "timezone": "America/Chicago",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "northplatte",
+    {
+      "country": "US",
+      "city": "North Platte",
+      "timezone": "America/Chicago",
+      "stateName": "Nebraska",
+      "stateIsoCode": "NE"
+    }
+  ],
+  [
+    "sidney",
+    {
+      "country": "US",
+      "city": "Sidney",
+      "timezone": "America/Denver",
+      "stateName": "Ohio",
+      "stateIsoCode": "OH"
+    }
+  ],
+  [
+    "scottsbluff",
+    {
+      "country": "US",
+      "city": "Scottsbluff",
+      "timezone": "America/Denver",
+      "stateName": "Nebraska",
+      "stateIsoCode": "NE"
+    }
+  ],
+  [
+    "chadron",
+    {
+      "country": "US",
+      "city": "Chadron",
+      "timezone": "America/Denver",
+      "stateName": "Nebraska",
+      "stateIsoCode": "NE"
+    }
+  ],
+  [
+    "lawton",
+    {
+      "country": "US",
+      "city": "Lawton",
+      "timezone": "America/Chicago",
+      "stateName": "Oklahoma",
+      "stateIsoCode": "OK"
+    }
+  ],
+  [
+    "norman",
+    {
+      "country": "US",
+      "city": "Norman",
+      "timezone": "America/Chicago",
+      "stateName": "Oklahoma",
+      "stateIsoCode": "OK"
+    }
+  ],
+  [
+    "muskogee",
+    {
+      "country": "US",
+      "city": "Muskogee",
+      "timezone": "America/Chicago",
+      "stateName": "Oklahoma",
+      "stateIsoCode": "OK"
+    }
+  ],
+  [
+    "poncacity",
+    {
+      "country": "US",
+      "city": "Ponca City",
+      "timezone": "America/Chicago",
+      "stateName": "Oklahoma",
+      "stateIsoCode": "OK"
+    }
+  ],
+  [
+    "shawnee",
+    {
+      "country": "US",
+      "city": "Shawnee",
+      "timezone": "America/Chicago",
+      "stateName": "Oklahoma",
+      "stateIsoCode": "OK"
+    }
+  ],
+  [
+    "woodward",
+    {
+      "country": "US",
+      "city": "Woodward",
+      "timezone": "America/Chicago",
+      "stateName": "Oklahoma",
+      "stateIsoCode": "OK"
+    }
+  ],
+  [
+    "guymon",
+    {
+      "country": "US",
+      "city": "Guymon",
+      "timezone": "America/Chicago",
+      "stateName": "Oklahoma",
+      "stateIsoCode": "OK"
+    }
+  ],
+  [
+    "yankton",
+    {
+      "country": "US",
+      "city": "Yankton",
+      "timezone": "America/Chicago",
+      "stateName": "South Dakota",
+      "stateIsoCode": "SD"
+    }
+  ],
+  [
+    "brookings",
+    {
+      "country": "US",
+      "city": "Brookings",
+      "timezone": "America/Chicago",
+      "stateName": "South Dakota",
+      "stateIsoCode": "SD"
+    }
+  ],
+  [
+    "mitchell",
+    {
+      "country": "US",
+      "city": "Mitchell",
+      "timezone": "America/Chicago",
+      "stateName": "South Dakota",
+      "stateIsoCode": "SD"
+    }
+  ],
+  [
+    "mobridge",
+    {
+      "country": "US",
+      "city": "Mobridge",
+      "timezone": "America/Chicago",
+      "stateName": "South Dakota",
+      "stateIsoCode": "SD"
+    }
+  ],
+  [
+    "houma",
+    {
+      "country": "US",
+      "city": "Houma",
+      "timezone": "America/Chicago",
+      "stateName": "Louisiana",
+      "stateIsoCode": "LA"
+    }
+  ],
+  [
+    "monroe",
+    {
+      "country": "US",
+      "city": "Monroe",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "conroe",
+    {
+      "country": "US",
+      "city": "Conroe",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "nacogdoches",
+    {
+      "country": "US",
+      "city": "Nacogdoches",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "eaglepass",
+    {
+      "country": "US",
+      "city": "Eagle Pass",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "edinburg",
+    {
+      "country": "US",
+      "city": "Edinburg",
+      "timezone": "America/Chicago",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "kingsville",
+    {
+      "country": "US",
+      "city": "Kingsville",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "portarthur",
+    {
+      "country": "US",
+      "city": "Port Arthur",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "huntsville",
+    {
+      "country": "US",
+      "city": "Huntsville",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "killeen",
+    {
+      "country": "US",
+      "city": "Killeen",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "lufkin",
+    {
+      "country": "US",
+      "city": "Lufkin",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "delrio",
+    {
+      "country": "US",
+      "city": "Del Rio",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "sanangelo",
+    {
+      "country": "US",
+      "city": "San Angelo",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "sherman",
+    {
+      "country": "US",
+      "city": "Sherman",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "beaumont",
+    {
+      "country": "US",
+      "city": "Beaumont",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "portlavaca",
+    {
+      "country": "US",
+      "city": "Port Lavaca",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "falfurrias",
+    {
+      "country": "US",
+      "city": "Falfurrias",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "beeville",
+    {
+      "country": "US",
+      "city": "Beeville",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "fortstockton",
+    {
+      "country": "US",
+      "city": "Fort Stockton",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "pecos",
+    {
+      "country": "US",
+      "city": "Pecos",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "dumas",
+    {
+      "country": "US",
+      "city": "Dumas",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "denton",
+    {
+      "country": "US",
+      "city": "Denton",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "midland",
+    {
+      "country": "US",
+      "city": "Midland",
+      "timezone": "America/Chicago",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "temple",
+    {
+      "country": "US",
+      "city": "Temple",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "newhaven",
+    {
+      "country": "US",
+      "city": "New Haven",
+      "timezone": "America/New_York",
+      "stateName": "West Virginia",
+      "stateIsoCode": "WV"
+    }
+  ],
+  [
+    "lowell",
+    {
+      "country": "US",
+      "city": "Lowell",
+      "timezone": "America/New_York",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "worcester",
+    {
+      "country": "US",
+      "city": "Worcester",
+      "timezone": "America/New_York",
+      "stateName": "New York",
+      "stateIsoCode": "NY"
+    }
+  ],
+  [
+    "manchester",
+    {
+      "country": "US",
+      "city": "Manchester",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "newport",
+    {
+      "country": "US",
+      "city": "Newport",
+      "timezone": "America/New_York",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "dothan",
+    {
+      "country": "US",
+      "city": "Dothan",
+      "timezone": "America/Chicago",
+      "stateName": "Alabama",
+      "stateIsoCode": "AL"
+    }
+  ],
+  [
+    "tuscaloosa",
+    {
+      "country": "US",
+      "city": "Tuscaloosa",
+      "timezone": "America/Chicago",
+      "stateName": "Alabama",
+      "stateIsoCode": "AL"
+    }
+  ],
+  [
+    "gadsden",
+    {
+      "country": "US",
+      "city": "Gadsden",
+      "timezone": "America/Chicago",
+      "stateName": "South Carolina",
+      "stateIsoCode": "SC"
+    }
+  ],
+  [
+    "enterprise",
+    {
+      "country": "US",
+      "city": "Enterprise",
+      "timezone": "America/Chicago",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "selma",
+    {
+      "country": "US",
+      "city": "Selma",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "coralgables",
+    {
+      "country": "US",
+      "city": "Coral Gables",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "capecoral",
+    {
+      "country": "US",
+      "city": "Cape Coral",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "naples",
+    {
+      "country": "US",
+      "city": "Naples",
+      "timezone": "America/New_York",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "fortpierce",
+    {
+      "country": "US",
+      "city": "Fort Pierce",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "kissimmee",
+    {
+      "country": "US",
+      "city": "Kissimmee",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "titusville",
+    {
+      "country": "US",
+      "city": "Titusville",
+      "timezone": "America/New_York",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "ocala",
+    {
+      "country": "US",
+      "city": "Ocala",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "fortlauderdale",
+    {
+      "country": "US",
+      "city": "Fort Lauderdale",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "apalachicola",
+    {
+      "country": "US",
+      "city": "Apalachicola",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "verobeach",
+    {
+      "country": "US",
+      "city": "Vero Beach",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "valdosta",
+    {
+      "country": "US",
+      "city": "Valdosta",
+      "timezone": "America/New_York",
+      "stateName": "Georgia",
+      "stateIsoCode": "GA"
+    }
+  ],
+  [
+    "athens",
+    {
+      "country": "US",
+      "city": "Athens",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "macon",
+    {
+      "country": "US",
+      "city": "Macon",
+      "timezone": "America/New_York",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "columbus",
+    {
+      "country": "US",
+      "city": "Columbus",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "dublin",
+    {
+      "country": "US",
+      "city": "Dublin",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "gulfport",
+    {
+      "country": "US",
+      "city": "Gulfport",
+      "timezone": "America/Chicago",
+      "stateName": "Mississippi",
+      "stateIsoCode": "MS"
+    }
+  ],
+  [
+    "hattiesburg",
+    {
+      "country": "US",
+      "city": "Hattiesburg",
+      "timezone": "America/Chicago",
+      "stateName": "Mississippi",
+      "stateIsoCode": "MS"
+    }
+  ],
+  [
+    "tupelo",
+    {
+      "country": "US",
+      "city": "Tupelo",
+      "timezone": "America/Chicago",
+      "stateName": "Mississippi",
+      "stateIsoCode": "MS"
+    }
+  ],
+  [
+    "greenville",
+    {
+      "country": "US",
+      "city": "Greenville",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "natchez",
+    {
+      "country": "US",
+      "city": "Natchez",
+      "timezone": "America/Chicago",
+      "stateName": "Mississippi",
+      "stateIsoCode": "MS"
+    }
+  ],
+  [
+    "sumter",
+    {
+      "country": "US",
+      "city": "Sumter",
+      "timezone": "America/New_York",
+      "stateName": "South Carolina",
+      "stateIsoCode": "SC"
+    }
+  ],
+  [
+    "anderson",
+    {
+      "country": "US",
+      "city": "Anderson",
+      "timezone": "America/New_York",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "aiken",
+    {
+      "country": "US",
+      "city": "Aiken",
+      "timezone": "America/New_York",
+      "stateName": "South Carolina",
+      "stateIsoCode": "SC"
+    }
+  ],
+  [
+    "beaufort",
+    {
+      "country": "US",
+      "city": "Beaufort",
+      "timezone": "America/New_York",
+      "stateName": "South Carolina",
+      "stateIsoCode": "SC"
+    }
+  ],
+  [
+    "rockhill",
+    {
+      "country": "US",
+      "city": "Rock Hill",
+      "timezone": "America/New_York",
+      "stateName": "South Carolina",
+      "stateIsoCode": "SC"
+    }
+  ],
+  [
+    "decatur",
+    {
+      "country": "US",
+      "city": "Decatur",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "alton",
+    {
+      "country": "US",
+      "city": "Alton",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "quincy",
+    {
+      "country": "US",
+      "city": "Quincy",
+      "timezone": "America/Chicago",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "urbana",
+    {
+      "country": "US",
+      "city": "Urbana",
+      "timezone": "America/Chicago",
+      "stateName": "Ohio",
+      "stateIsoCode": "OH"
+    }
+  ],
+  [
+    "bloomington",
+    {
+      "country": "US",
+      "city": "Bloomington",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "kankakee",
+    {
+      "country": "US",
+      "city": "Kankakee",
+      "timezone": "America/Chicago",
+      "stateName": "Illinois",
+      "stateIsoCode": "IL"
+    }
+  ],
+  [
+    "waukegan",
+    {
+      "country": "US",
+      "city": "Waukegan",
+      "timezone": "America/Chicago",
+      "stateName": "Illinois",
+      "stateIsoCode": "IL"
+    }
+  ],
+  [
+    "carbondale",
+    {
+      "country": "US",
+      "city": "Carbondale",
+      "timezone": "America/Chicago",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "belleville",
+    {
+      "country": "US",
+      "city": "Belleville",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "muncie",
+    {
+      "country": "US",
+      "city": "Muncie",
+      "timezone": "America/Indiana/Indianapolis",
+      "stateName": "Indiana",
+      "stateIsoCode": "IN"
+    }
+  ],
+  [
+    "kokomo",
+    {
+      "country": "US",
+      "city": "Kokomo",
+      "timezone": "America/Indiana/Indianapolis",
+      "stateName": "Indiana",
+      "stateIsoCode": "IN"
+    }
+  ],
+  [
+    "gary",
+    {
+      "country": "US",
+      "city": "Gary",
+      "timezone": "America/Chicago",
+      "stateName": "Indiana",
+      "stateIsoCode": "IN"
+    }
+  ],
+  [
+    "fortwayne",
+    {
+      "country": "US",
+      "city": "Fort Wayne",
+      "timezone": "America/Indiana/Indianapolis",
+      "stateName": "Indiana",
+      "stateIsoCode": "IN"
+    }
+  ],
+  [
+    "covington",
+    {
+      "country": "US",
+      "city": "Covington",
+      "timezone": "America/New_York",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "paducah",
+    {
+      "country": "US",
+      "city": "Paducah",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "owensboro",
+    {
+      "country": "US",
+      "city": "Owensboro",
+      "timezone": "America/Chicago",
+      "stateName": "Kentucky",
+      "stateIsoCode": "KY"
+    }
+  ],
+  [
+    "jacksonville",
+    {
+      "country": "US",
+      "city": "Jacksonville",
+      "timezone": "America/New_York",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "goldsboro",
+    {
+      "country": "US",
+      "city": "Goldsboro",
+      "timezone": "America/New_York",
+      "stateName": "North Carolina",
+      "stateIsoCode": "NC"
+    }
+  ],
+  [
+    "hickory",
+    {
+      "country": "US",
+      "city": "Hickory",
+      "timezone": "America/New_York",
+      "stateName": "North Carolina",
+      "stateIsoCode": "NC"
+    }
+  ],
+  [
+    "asheville",
+    {
+      "country": "US",
+      "city": "Asheville",
+      "timezone": "America/New_York",
+      "stateName": "North Carolina",
+      "stateIsoCode": "NC"
+    }
+  ],
+  [
+    "winston-salem",
+    {
+      "country": "US",
+      "city": "Winston-Salem",
+      "timezone": "America/New_York",
+      "stateName": "North Carolina",
+      "stateIsoCode": "NC"
+    }
+  ],
+  [
+    "kittyhawk",
+    {
+      "country": "US",
+      "city": "Kitty Hawk",
+      "timezone": "America/New_York",
+      "stateName": "North Carolina",
+      "stateIsoCode": "NC"
+    }
+  ],
+  [
+    "akron",
+    {
+      "country": "US",
+      "city": "Akron",
+      "timezone": "America/New_York",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "lima",
+    {
+      "country": "US",
+      "city": "Lima",
+      "timezone": "America/New_York",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "oakridge",
+    {
+      "country": "US",
+      "city": "Oak Ridge",
+      "timezone": "America/New_York",
+      "stateName": "Tennessee",
+      "stateIsoCode": "TN"
+    }
+  ],
+  [
+    "murfreesboro",
+    {
+      "country": "US",
+      "city": "Murfreesboro",
+      "timezone": "America/Chicago",
+      "stateName": "Tennessee",
+      "stateIsoCode": "TN"
+    }
+  ],
+  [
+    "clarksville",
+    {
+      "country": "US",
+      "city": "Clarksville",
+      "timezone": "America/Chicago",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "jackson",
+    {
+      "country": "US",
+      "city": "Jackson",
+      "timezone": "America/Chicago",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "alexandria",
+    {
+      "country": "US",
+      "city": "Alexandria",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "fredericksburg",
+    {
+      "country": "US",
+      "city": "Fredericksburg",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "roanoke",
+    {
+      "country": "US",
+      "city": "Roanoke",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "danville",
+    {
+      "country": "US",
+      "city": "Danville",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "winchester",
+    {
+      "country": "US",
+      "city": "Winchester",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "bristol",
+    {
+      "country": "US",
+      "city": "Bristol",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "superior",
+    {
+      "country": "US",
+      "city": "Superior",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "westbend",
+    {
+      "country": "US",
+      "city": "West Bend",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "fonddulac",
+    {
+      "country": "US",
+      "city": "Fond du Lac",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "oshkosh",
+    {
+      "country": "US",
+      "city": "Oshkosh",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "rhinelander",
+    {
+      "country": "US",
+      "city": "Rhinelander",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "racine",
+    {
+      "country": "US",
+      "city": "Racine",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "marinette",
+    {
+      "country": "US",
+      "city": "Marinette",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "wheeling",
+    {
+      "country": "US",
+      "city": "Wheeling",
+      "timezone": "America/New_York",
+      "stateName": "West Virginia",
+      "stateIsoCode": "WV"
+    }
+  ],
+  [
+    "morgantown",
+    {
+      "country": "US",
+      "city": "Morgantown",
+      "timezone": "America/New_York",
+      "stateName": "West Virginia",
+      "stateIsoCode": "WV"
+    }
+  ],
+  [
+    "huntington",
+    {
+      "country": "US",
+      "city": "Huntington",
+      "timezone": "America/New_York",
+      "stateName": "West Virginia",
+      "stateIsoCode": "WV"
+    }
+  ],
+  [
+    "beckley",
+    {
+      "country": "US",
+      "city": "Beckley",
+      "timezone": "America/New_York",
+      "stateName": "West Virginia",
+      "stateIsoCode": "WV"
+    }
+  ],
+  [
+    "wilmington",
+    {
+      "country": "US",
+      "city": "Wilmington",
+      "timezone": "America/New_York",
+      "stateName": "Ohio",
+      "stateIsoCode": "OH"
+    }
+  ],
+  [
+    "cumberland",
+    {
+      "country": "US",
+      "city": "Cumberland",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "atlanticcity",
+    {
+      "country": "US",
+      "city": "Atlantic City",
+      "timezone": "America/New_York",
+      "stateName": "New Jersey",
+      "stateIsoCode": "NJ"
+    }
+  ],
+  [
+    "newark",
+    {
+      "country": "US",
+      "city": "Newark",
+      "timezone": "America/New_York",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "schenectady",
+    {
+      "country": "US",
+      "city": "Schenectady",
+      "timezone": "America/New_York",
+      "stateName": "New York",
+      "stateIsoCode": "NY"
+    }
+  ],
+  [
+    "binghamton",
+    {
+      "country": "US",
+      "city": "Binghamton",
+      "timezone": "America/New_York",
+      "stateName": "New York",
+      "stateIsoCode": "NY"
+    }
+  ],
+  [
+    "utica",
+    {
+      "country": "US",
+      "city": "Utica",
+      "timezone": "America/New_York",
+      "stateName": "South Carolina",
+      "stateIsoCode": "SC"
+    }
+  ],
+  [
+    "watertown",
+    {
+      "country": "US",
+      "city": "Watertown",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "niagarafalls",
+    {
+      "country": "US",
+      "city": "Niagara Falls",
+      "timezone": "America/New_York",
+      "stateName": "New York",
+      "stateIsoCode": "NY"
+    }
+  ],
+  [
+    "elmira",
+    {
+      "country": "US",
+      "city": "Elmira",
+      "timezone": "America/New_York",
+      "stateName": "New York",
+      "stateIsoCode": "NY"
+    }
+  ],
+  [
+    "york",
+    {
+      "country": "US",
+      "city": "York",
+      "timezone": "America/New_York",
+      "stateName": "South Carolina",
+      "stateIsoCode": "SC"
+    }
+  ],
+  [
+    "johnstown",
+    {
+      "country": "US",
+      "city": "Johnstown",
+      "timezone": "America/New_York",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "scranton",
+    {
+      "country": "US",
+      "city": "Scranton",
+      "timezone": "America/New_York",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "statecollege",
+    {
+      "country": "US",
+      "city": "State College",
+      "timezone": "America/New_York",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "erie",
+    {
+      "country": "US",
+      "city": "Erie",
+      "timezone": "America/New_York",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "barharbor",
+    {
+      "country": "US",
+      "city": "Bar Harbor",
+      "timezone": "America/New_York",
+      "stateName": "Maine",
+      "stateIsoCode": "ME"
+    }
+  ],
+  [
+    "lewiston",
+    {
+      "country": "US",
+      "city": "Lewiston",
+      "timezone": "America/New_York",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "presqueisle",
+    {
+      "country": "US",
+      "city": "Presque Isle",
+      "timezone": "America/New_York",
+      "stateName": "Maine",
+      "stateIsoCode": "ME"
+    }
+  ],
+  [
+    "annarbor",
+    {
+      "country": "US",
+      "city": "Ann Arbor",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "kalamazoo",
+    {
+      "country": "US",
+      "city": "Kalamazoo",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "muskegon",
+    {
+      "country": "US",
+      "city": "Muskegon",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "flint",
+    {
+      "country": "US",
+      "city": "Flint",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "grandrapids",
+    {
+      "country": "US",
+      "city": "Grand Rapids",
+      "timezone": "America/Detroit",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "pontiac",
+    {
+      "country": "US",
+      "city": "Pontiac",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "cadillac",
+    {
+      "country": "US",
+      "city": "Cadillac",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "traversecity",
+    {
+      "country": "US",
+      "city": "Traverse City",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "petoskey",
+    {
+      "country": "US",
+      "city": "Petoskey",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "escanaba",
+    {
+      "country": "US",
+      "city": "Escanaba",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "marquette",
+    {
+      "country": "US",
+      "city": "Marquette",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "hancock",
+    {
+      "country": "US",
+      "city": "Hancock",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "wrangell",
+    {
+      "country": "US",
+      "city": "Wrangell",
+      "timezone": "America/Sitka",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "pilotpoint",
+    {
+      "country": "US",
+      "city": "Pilot Point",
+      "timezone": "America/Anchorage",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "hughes",
+    {
+      "country": "US",
+      "city": "Hughes",
+      "timezone": "America/Anchorage",
+      "stateName": "Arkansas",
+      "stateIsoCode": "AR"
+    }
+  ],
+  [
+    "ambler",
+    {
+      "country": "US",
+      "city": "Ambler",
+      "timezone": "America/Anchorage",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "wales",
+    {
+      "country": "US",
+      "city": "Wales",
+      "timezone": "America/Nome",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "kotzebue",
+    {
+      "country": "US",
+      "city": "Kotzebue",
+      "timezone": "America/Nome",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "wasilla",
+    {
+      "country": "US",
+      "city": "Wasilla",
+      "timezone": "America/Anchorage",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "circle",
+    {
+      "country": "US",
+      "city": "Circle",
+      "timezone": "America/Anchorage",
+      "stateName": "Montana",
+      "stateIsoCode": "MT"
+    }
+  ],
+  [
+    "homer",
+    {
+      "country": "US",
+      "city": "Homer",
+      "timezone": "America/Anchorage",
+      "stateName": "New York",
+      "stateIsoCode": "NY"
+    }
+  ],
+  [
+    "kailua-kona",
+    {
+      "country": "US",
+      "city": "Kailua-Kona",
+      "timezone": "Pacific/Honolulu",
+      "stateName": "Hawaii",
+      "stateIsoCode": "HI"
+    }
+  ],
+  [
+    "butte",
+    {
+      "country": "US",
+      "city": "Butte",
+      "timezone": "America/Denver",
+      "stateName": "Nebraska",
+      "stateIsoCode": "NE"
+    }
+  ],
+  [
+    "grandforks",
+    {
+      "country": "US",
+      "city": "Grand Forks",
+      "timezone": "America/Chicago",
+      "stateName": "North Dakota",
+      "stateIsoCode": "ND"
+    }
+  ],
+  [
+    "pocatello",
+    {
+      "country": "US",
+      "city": "Pocatello",
+      "timezone": "America/Boise",
+      "stateName": "Idaho",
+      "stateIsoCode": "ID"
+    }
+  ],
+  [
+    "tacoma",
+    {
+      "country": "US",
+      "city": "Tacoma",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "yuma",
+    {
+      "country": "US",
+      "city": "Yuma",
+      "timezone": "America/Phoenix",
+      "stateName": "Colorado",
+      "stateIsoCode": "CO"
+    }
+  ],
+  [
+    "prescott",
+    {
+      "country": "US",
+      "city": "Prescott",
+      "timezone": "America/Phoenix",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "longbeach",
+    {
+      "country": "US",
+      "city": "Long Beach",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "grandjunction",
+    {
+      "country": "US",
+      "city": "Grand Junction",
+      "timezone": "America/Denver",
+      "stateName": "Colorado",
+      "stateIsoCode": "CO"
+    }
+  ],
+  [
+    "carsoncity",
+    {
+      "country": "US",
+      "city": "Carson City",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Nevada",
+      "stateIsoCode": "NV"
+    }
+  ],
+  [
+    "carlsbad",
+    {
+      "country": "US",
+      "city": "Carlsbad",
+      "timezone": "America/Denver",
+      "stateName": "New Mexico",
+      "stateIsoCode": "NM"
+    }
+  ],
+  [
+    "alamogordo",
+    {
+      "country": "US",
+      "city": "Alamogordo",
+      "timezone": "America/Denver",
+      "stateName": "New Mexico",
+      "stateIsoCode": "NM"
+    }
+  ],
+  [
+    "medford",
+    {
+      "country": "US",
+      "city": "Medford",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "klamathfalls",
+    {
+      "country": "US",
+      "city": "Klamath Falls",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "provo",
+    {
+      "country": "US",
+      "city": "Provo",
+      "timezone": "America/Denver",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "laramie",
+    {
+      "country": "US",
+      "city": "Laramie",
+      "timezone": "America/Denver",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "littlerock",
+    {
+      "country": "US",
+      "city": "Little Rock",
+      "timezone": "America/Chicago",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "wichita",
+    {
+      "country": "US",
+      "city": "Wichita",
+      "timezone": "America/Chicago",
+      "stateName": "Kansas",
+      "stateIsoCode": "KS"
+    }
+  ],
+  [
+    "jeffersoncity",
+    {
+      "country": "US",
+      "city": "Jefferson City",
+      "timezone": "America/Chicago",
+      "stateName": "Tennessee",
+      "stateIsoCode": "TN"
+    }
+  ],
+  [
+    "rapidcity",
+    {
+      "country": "US",
+      "city": "Rapid City",
+      "timezone": "America/Denver",
+      "stateName": "South Dakota",
+      "stateIsoCode": "SD"
+    }
+  ],
+  [
+    "galveston",
+    {
+      "country": "US",
+      "city": "Galveston",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "freeport",
+    {
+      "country": "US",
+      "city": "Freeport",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "victoria",
+    {
+      "country": "US",
+      "city": "Victoria",
+      "timezone": "America/Chicago",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "odessa",
+    {
+      "country": "US",
+      "city": "Odessa",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "wichitafalls",
+    {
+      "country": "US",
+      "city": "Wichita Falls",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "waco",
+    {
+      "country": "US",
+      "city": "Waco",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "lubbock",
+    {
+      "country": "US",
+      "city": "Lubbock",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "hartford",
+    {
+      "country": "US",
+      "city": "Hartford",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "providence",
+    {
+      "country": "US",
+      "city": "Providence",
+      "timezone": "America/New_York",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "birmingham",
+    {
+      "country": "US",
+      "city": "Birmingham",
+      "timezone": "America/Chicago",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "mobile",
+    {
+      "country": "US",
+      "city": "Mobile",
+      "timezone": "America/Chicago",
+      "stateName": "Alabama",
+      "stateIsoCode": "AL"
+    }
+  ],
+  [
+    "pensacola",
+    {
+      "country": "US",
+      "city": "Pensacola",
+      "timezone": "America/Chicago",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "stpetersburg",
+    {
+      "country": "US",
+      "city": "St. Petersburg",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "biloxi",
+    {
+      "country": "US",
+      "city": "Biloxi",
+      "timezone": "America/Chicago",
+      "stateName": "Mississippi",
+      "stateIsoCode": "MS"
+    }
+  ],
+  [
+    "frankfort",
+    {
+      "country": "US",
+      "city": "Frankfort",
+      "timezone": "America/New_York",
+      "stateName": "Ohio",
+      "stateIsoCode": "OH"
+    }
+  ],
+  [
+    "greensboro",
+    {
+      "country": "US",
+      "city": "Greensboro",
+      "timezone": "America/New_York",
+      "stateName": "North Carolina",
+      "stateIsoCode": "NC"
+    }
+  ],
+  [
+    "dayton",
+    {
+      "country": "US",
+      "city": "Dayton",
+      "timezone": "America/New_York",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "virginiabeach",
+    {
+      "country": "US",
+      "city": "Virginia Beach",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "madison",
+    {
+      "country": "US",
+      "city": "Madison",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "greenbay",
+    {
+      "country": "US",
+      "city": "Green Bay",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "trenton",
+    {
+      "country": "US",
+      "city": "Trenton",
+      "timezone": "America/New_York",
+      "stateName": "Tennessee",
+      "stateIsoCode": "TN"
+    }
+  ],
+  [
+    "lansing",
+    {
+      "country": "US",
+      "city": "Lansing",
+      "timezone": "America/Detroit",
+      "stateName": "New York",
+      "stateIsoCode": "NY"
+    }
+  ],
+  [
+    "palmer",
+    {
+      "country": "US",
+      "city": "Palmer",
+      "timezone": "America/Anchorage",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "seward",
+    {
+      "country": "US",
+      "city": "Seward",
+      "timezone": "America/Anchorage",
+      "stateName": "Nebraska",
+      "stateIsoCode": "NE"
+    }
+  ],
+  [
+    "duluth",
+    {
+      "country": "US",
+      "city": "Duluth",
+      "timezone": "America/Chicago",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "bemidji",
+    {
+      "country": "US",
+      "city": "Bemidji",
+      "timezone": "America/Chicago",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "havre",
+    {
+      "country": "US",
+      "city": "Havre",
+      "timezone": "America/Denver",
+      "stateName": "Montana",
+      "stateIsoCode": "MT"
+    }
+  ],
+  [
+    "kalispell",
+    {
+      "country": "US",
+      "city": "Kalispell",
+      "timezone": "America/Denver",
+      "stateName": "Montana",
+      "stateIsoCode": "MT"
+    }
+  ],
+  [
+    "idahofalls",
+    {
+      "country": "US",
+      "city": "Idaho Falls",
+      "timezone": "America/Boise",
+      "stateName": "Idaho",
+      "stateIsoCode": "ID"
+    }
+  ],
+  [
+    "yakima",
+    {
+      "country": "US",
+      "city": "Yakima",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "wenatchee",
+    {
+      "country": "US",
+      "city": "Wenatchee",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "bakersfield",
+    {
+      "country": "US",
+      "city": "Bakersfield",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "oakland",
+    {
+      "country": "US",
+      "city": "Oakland",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Tennessee",
+      "stateIsoCode": "TN"
+    }
+  ],
+  [
+    "chico",
+    {
+      "country": "US",
+      "city": "Chico",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "monterey",
+    {
+      "country": "US",
+      "city": "Monterey",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "salinas",
+    {
+      "country": "US",
+      "city": "Salinas",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "losalamos",
+    {
+      "country": "US",
+      "city": "Los Alamos",
+      "timezone": "America/Denver",
+      "stateName": "New Mexico",
+      "stateIsoCode": "NM"
+    }
+  ],
+  [
+    "eugene",
+    {
+      "country": "US",
+      "city": "Eugene",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "coosbay",
+    {
+      "country": "US",
+      "city": "Coos Bay",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "bend",
+    {
+      "country": "US",
+      "city": "Bend",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "cody",
+    {
+      "country": "US",
+      "city": "Cody",
+      "timezone": "America/Denver",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "cedarrapids",
+    {
+      "country": "US",
+      "city": "Cedar Rapids",
+      "timezone": "America/Chicago",
+      "stateName": "Iowa",
+      "stateIsoCode": "IA"
+    }
+  ],
+  [
+    "lincoln",
+    {
+      "country": "US",
+      "city": "Lincoln",
+      "timezone": "America/Chicago",
+      "stateName": "Vermont",
+      "stateIsoCode": "VT"
+    }
+  ],
+  [
+    "abilene",
+    {
+      "country": "US",
+      "city": "Abilene",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "brownsville",
+    {
+      "country": "US",
+      "city": "Brownsville",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "tyler",
+    {
+      "country": "US",
+      "city": "Tyler",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "concord",
+    {
+      "country": "US",
+      "city": "Concord",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "keywest",
+    {
+      "country": "US",
+      "city": "Key West",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "westpalmbeach",
+    {
+      "country": "US",
+      "city": "West Palm Beach",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "sarasota",
+    {
+      "country": "US",
+      "city": "Sarasota",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "daytonabeach",
+    {
+      "country": "US",
+      "city": "Daytona Beach",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "gainesville",
+    {
+      "country": "US",
+      "city": "Gainesville",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "brunswick",
+    {
+      "country": "US",
+      "city": "Brunswick",
+      "timezone": "America/New_York",
+      "stateName": "Ohio",
+      "stateIsoCode": "OH"
+    }
+  ],
+  [
+    "augusta",
+    {
+      "country": "US",
+      "city": "Augusta",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "vicksburg",
+    {
+      "country": "US",
+      "city": "Vicksburg",
+      "timezone": "America/Chicago",
+      "stateName": "Mississippi",
+      "stateIsoCode": "MS"
+    }
+  ],
+  [
+    "myrtlebeach",
+    {
+      "country": "US",
+      "city": "Myrtle Beach",
+      "timezone": "America/New_York",
+      "stateName": "South Carolina",
+      "stateIsoCode": "SC"
+    }
+  ],
+  [
+    "charleston",
+    {
+      "country": "US",
+      "city": "Charleston",
+      "timezone": "America/New_York",
+      "stateName": "West Virginia",
+      "stateIsoCode": "WV"
+    }
+  ],
+  [
+    "peoria",
+    {
+      "country": "US",
+      "city": "Peoria",
+      "timezone": "America/Chicago",
+      "stateName": "Illinois",
+      "stateIsoCode": "IL"
+    }
+  ],
+  [
+    "evansville",
+    {
+      "country": "US",
+      "city": "Evansville",
+      "timezone": "America/Chicago",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "louisville",
+    {
+      "country": "US",
+      "city": "Louisville",
+      "timezone": "America/Kentucky/Louisville",
+      "stateName": "Tennessee",
+      "stateIsoCode": "TN"
+    }
+  ],
+  [
+    "lexington",
+    {
+      "country": "US",
+      "city": "Lexington",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "charlotte",
+    {
+      "country": "US",
+      "city": "Charlotte",
+      "timezone": "America/New_York",
+      "stateName": "Vermont",
+      "stateIsoCode": "VT"
+    }
+  ],
+  [
+    "youngstown",
+    {
+      "country": "US",
+      "city": "Youngstown",
+      "timezone": "America/New_York",
+      "stateName": "Ohio",
+      "stateIsoCode": "OH"
+    }
+  ],
+  [
+    "canton",
+    {
+      "country": "US",
+      "city": "Canton",
+      "timezone": "America/New_York",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "toledo",
+    {
+      "country": "US",
+      "city": "Toledo",
+      "timezone": "America/New_York",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "chattanooga",
+    {
+      "country": "US",
+      "city": "Chattanooga",
+      "timezone": "America/New_York",
+      "stateName": "Tennessee",
+      "stateIsoCode": "TN"
+    }
+  ],
+  [
+    "charlottesville",
+    {
+      "country": "US",
+      "city": "Charlottesville",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "lynchburg",
+    {
+      "country": "US",
+      "city": "Lynchburg",
+      "timezone": "America/New_York",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "wausau",
+    {
+      "country": "US",
+      "city": "Wausau",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "ithaca",
+    {
+      "country": "US",
+      "city": "Ithaca",
+      "timezone": "America/New_York",
+      "stateName": "New York",
+      "stateIsoCode": "NY"
+    }
+  ],
+  [
+    "harrisburg",
+    {
+      "country": "US",
+      "city": "Harrisburg",
+      "timezone": "America/New_York",
+      "stateName": "South Dakota",
+      "stateIsoCode": "SD"
+    }
+  ],
+  [
+    "bangor",
+    {
+      "country": "US",
+      "city": "Bangor",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "portland",
+    {
+      "country": "US",
+      "city": "Portland",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "saginaw",
+    {
+      "country": "US",
+      "city": "Saginaw",
+      "timezone": "America/Detroit",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "ketchikan",
+    {
+      "country": "US",
+      "city": "Ketchikan",
+      "timezone": "America/Sitka",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "unalaska",
+    {
+      "country": "US",
+      "city": "Unalaska",
+      "timezone": "America/Nome",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "hooperbay",
+    {
+      "country": "US",
+      "city": "Hooper Bay",
+      "timezone": "America/Nome",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "galena",
+    {
+      "country": "US",
+      "city": "Galena",
+      "timezone": "America/Anchorage",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "cordova",
+    {
+      "country": "US",
+      "city": "Cordova",
+      "timezone": "America/Anchorage",
+      "stateName": "North Carolina",
+      "stateIsoCode": "NC"
+    }
+  ],
+  [
+    "kenai",
+    {
+      "country": "US",
+      "city": "Kenai",
+      "timezone": "America/Anchorage",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "santacruz",
+    {
+      "country": "US",
+      "city": "Santa Cruz",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "sanbernardino",
+    {
+      "country": "US",
+      "city": "San Bernardino",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "bridgeport",
+    {
+      "country": "US",
+      "city": "Bridgeport",
+      "timezone": "America/New_York",
+      "stateName": "West Virginia",
+      "stateIsoCode": "WV"
+    }
+  ],
+  [
+    "internationalfalls",
+    {
+      "country": "US",
+      "city": "International Falls",
+      "timezone": "America/Chicago",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "billings",
+    {
+      "country": "US",
+      "city": "Billings",
+      "timezone": "America/Denver",
+      "stateName": "Montana",
+      "stateIsoCode": "MT"
+    }
+  ],
+  [
+    "greatfalls",
+    {
+      "country": "US",
+      "city": "Great Falls",
+      "timezone": "America/Denver",
+      "stateName": "Virginia",
+      "stateIsoCode": "VA"
+    }
+  ],
+  [
+    "missoula",
+    {
+      "country": "US",
+      "city": "Missoula",
+      "timezone": "America/Denver",
+      "stateName": "Montana",
+      "stateIsoCode": "MT"
+    }
+  ],
+  [
+    "minot",
+    {
+      "country": "US",
+      "city": "Minot",
+      "timezone": "America/Chicago",
+      "stateName": "North Dakota",
+      "stateIsoCode": "ND"
+    }
+  ],
+  [
+    "fargo",
+    {
+      "country": "US",
+      "city": "Fargo",
+      "timezone": "America/Chicago",
+      "stateName": "North Dakota",
+      "stateIsoCode": "ND"
+    }
+  ],
+  [
+    "hilo",
+    {
+      "country": "US",
+      "city": "Hilo",
+      "timezone": "Pacific/Honolulu",
+      "stateName": "Hawaii",
+      "stateIsoCode": "HI"
+    }
+  ],
+  [
+    "olympia",
+    {
+      "country": "US",
+      "city": "Olympia",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "spokane",
+    {
+      "country": "US",
+      "city": "Spokane",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "vancouver",
+    {
+      "country": "US",
+      "city": "Vancouver",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "flagstaff",
+    {
+      "country": "US",
+      "city": "Flagstaff",
+      "timezone": "America/Phoenix",
+      "stateName": "Arizona",
+      "stateIsoCode": "AZ"
+    }
+  ],
+  [
+    "tucson",
+    {
+      "country": "US",
+      "city": "Tucson",
+      "timezone": "America/Phoenix",
+      "stateName": "Arizona",
+      "stateIsoCode": "AZ"
+    }
+  ],
+  [
+    "santabarbara",
+    {
+      "country": "US",
+      "city": "Santa Barbara",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "fresno",
+    {
+      "country": "US",
+      "city": "Fresno",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "eureka",
+    {
+      "country": "US",
+      "city": "Eureka",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Nevada",
+      "stateIsoCode": "NV"
+    }
+  ],
+  [
+    "coloradosprings",
+    {
+      "country": "US",
+      "city": "Colorado Springs",
+      "timezone": "America/Denver",
+      "stateName": "Colorado",
+      "stateIsoCode": "CO"
+    }
+  ],
+  [
+    "reno",
+    {
+      "country": "US",
+      "city": "Reno",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "elko",
+    {
+      "country": "US",
+      "city": "Elko",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Nevada",
+      "stateIsoCode": "NV"
+    }
+  ],
+  [
+    "albuquerque",
+    {
+      "country": "US",
+      "city": "Albuquerque",
+      "timezone": "America/Denver",
+      "stateName": "New Mexico",
+      "stateIsoCode": "NM"
+    }
+  ],
+  [
+    "casper",
+    {
+      "country": "US",
+      "city": "Casper",
+      "timezone": "America/Denver",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "topeka",
+    {
+      "country": "US",
+      "city": "Topeka",
+      "timezone": "America/Chicago",
+      "stateName": "Kansas",
+      "stateIsoCode": "KS"
+    }
+  ],
+  [
+    "tulsa",
+    {
+      "country": "US",
+      "city": "Tulsa",
+      "timezone": "America/Chicago",
+      "stateName": "Oklahoma",
+      "stateIsoCode": "OK"
+    }
+  ],
+  [
+    "siouxfalls",
+    {
+      "country": "US",
+      "city": "Sioux Falls",
+      "timezone": "America/Chicago",
+      "stateName": "South Dakota",
+      "stateIsoCode": "SD"
+    }
+  ],
+  [
+    "shreveport",
+    {
+      "country": "US",
+      "city": "Shreveport",
+      "timezone": "America/Chicago",
+      "stateName": "Louisiana",
+      "stateIsoCode": "LA"
+    }
+  ],
+  [
+    "batonrouge",
+    {
+      "country": "US",
+      "city": "Baton Rouge",
+      "timezone": "America/Chicago",
+      "stateName": "Louisiana",
+      "stateIsoCode": "LA"
+    }
+  ],
+  [
+    "corpuschristi",
+    {
+      "country": "US",
+      "city": "Corpus Christi",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "austin",
+    {
+      "country": "US",
+      "city": "Austin",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "amarillo",
+    {
+      "country": "US",
+      "city": "Amarillo",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "elpaso",
+    {
+      "country": "US",
+      "city": "El Paso",
+      "timezone": "America/Denver",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "laredo",
+    {
+      "country": "US",
+      "city": "Laredo",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "montgomery",
+    {
+      "country": "US",
+      "city": "Montgomery",
+      "timezone": "America/Chicago",
+      "stateName": "West Virginia",
+      "stateIsoCode": "WV"
+    }
+  ],
+  [
+    "tallahassee",
+    {
+      "country": "US",
+      "city": "Tallahassee",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "orlando",
+    {
+      "country": "US",
+      "city": "Orlando",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "savannah",
+    {
+      "country": "US",
+      "city": "Savannah",
+      "timezone": "America/New_York",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "indianapolis",
+    {
+      "country": "US",
+      "city": "Indianapolis",
+      "timezone": "America/Indiana/Indianapolis",
+      "stateName": "Indiana",
+      "stateIsoCode": "IN"
+    }
+  ],
+  [
+    "knoxville",
+    {
+      "country": "US",
+      "city": "Knoxville",
+      "timezone": "America/New_York",
+      "stateName": "Tennessee",
+      "stateIsoCode": "TN"
+    }
+  ],
+  [
+    "baltimore",
+    {
+      "country": "US",
+      "city": "Baltimore",
+      "timezone": "America/New_York",
+      "stateName": "Ohio",
+      "stateIsoCode": "OH"
+    }
+  ],
+  [
+    "syracuse",
+    {
+      "country": "US",
+      "city": "Syracuse",
+      "timezone": "America/New_York",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "saultstemarie",
+    {
+      "country": "US",
+      "city": "Sault Ste. Marie",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "sitka",
+    {
+      "country": "US",
+      "city": "Sitka",
+      "timezone": "America/Sitka",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "helena",
+    {
+      "country": "US",
+      "city": "Helena",
+      "timezone": "America/Denver",
+      "stateName": "Oklahoma",
+      "stateIsoCode": "OK"
+    }
+  ],
+  [
+    "bismarck",
+    {
+      "country": "US",
+      "city": "Bismarck",
+      "timezone": "America/Chicago",
+      "stateName": "North Dakota",
+      "stateIsoCode": "ND"
+    }
+  ],
+  [
+    "boise",
+    {
+      "country": "US",
+      "city": "Boise",
+      "timezone": "America/Boise",
+      "stateName": "Idaho",
+      "stateIsoCode": "ID"
+    }
+  ],
+  [
+    "sanjose",
+    {
+      "country": "US",
+      "city": "San Jose",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "sacramento",
+    {
+      "country": "US",
+      "city": "Sacramento",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "santafe",
+    {
+      "country": "US",
+      "city": "Santa Fe",
+      "timezone": "America/Denver",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "saltlakecity",
+    {
+      "country": "US",
+      "city": "Salt Lake City",
+      "timezone": "America/Denver",
+      "stateName": "Utah",
+      "stateIsoCode": "UT"
+    }
+  ],
+  [
+    "cheyenne",
+    {
+      "country": "US",
+      "city": "Cheyenne",
+      "timezone": "America/Denver",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "desmoines",
+    {
+      "country": "US",
+      "city": "Des Moines",
+      "timezone": "America/Chicago",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "omaha",
+    {
+      "country": "US",
+      "city": "Omaha",
+      "timezone": "America/Chicago",
+      "stateName": "Nebraska",
+      "stateIsoCode": "NE"
+    }
+  ],
+  [
+    "oklahomacity",
+    {
+      "country": "US",
+      "city": "Oklahoma City",
+      "timezone": "America/Chicago",
+      "stateName": "Oklahoma",
+      "stateIsoCode": "OK"
+    }
+  ],
+  [
+    "pierre",
+    {
+      "country": "US",
+      "city": "Pierre",
+      "timezone": "America/Chicago",
+      "stateName": "South Dakota",
+      "stateIsoCode": "SD"
+    }
+  ],
+  [
+    "sanantonio",
+    {
+      "country": "US",
+      "city": "San Antonio",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "raleigh",
+    {
+      "country": "US",
+      "city": "Raleigh",
+      "timezone": "America/New_York",
+      "stateName": "North Carolina",
+      "stateIsoCode": "NC"
+    }
+  ],
+  [
+    "cleveland",
+    {
+      "country": "US",
+      "city": "Cleveland",
+      "timezone": "America/New_York",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "cincinnati",
+    {
+      "country": "US",
+      "city": "Cincinnati",
+      "timezone": "America/New_York",
+      "stateName": "Ohio",
+      "stateIsoCode": "OH"
+    }
+  ],
+  [
+    "nashville",
+    {
+      "country": "US",
+      "city": "Nashville",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "memphis",
+    {
+      "country": "US",
+      "city": "Memphis",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "milwaukee",
+    {
+      "country": "US",
+      "city": "Milwaukee",
+      "timezone": "America/Chicago",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "buffalo",
+    {
+      "country": "US",
+      "city": "Buffalo",
+      "timezone": "America/New_York",
+      "stateName": "Wyoming",
+      "stateIsoCode": "WY"
+    }
+  ],
+  [
+    "pittsburgh",
+    {
+      "country": "US",
+      "city": "Pittsburgh",
+      "timezone": "America/New_York",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "kodiak",
+    {
+      "country": "US",
+      "city": "Kodiak",
+      "timezone": "America/Anchorage",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "bethel",
+    {
+      "country": "US",
+      "city": "Bethel",
+      "timezone": "America/Anchorage",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "barrow",
+    {
+      "country": "US",
+      "city": "Barrow",
+      "timezone": "America/Anchorage",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "nome",
+    {
+      "country": "US",
+      "city": "Nome",
+      "timezone": "America/Nome",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "valdez",
+    {
+      "country": "US",
+      "city": "Valdez",
+      "timezone": "America/Anchorage",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "juneau",
+    {
+      "country": "US",
+      "city": "Juneau",
+      "timezone": "America/Juneau",
+      "stateName": "Wisconsin",
+      "stateIsoCode": "WI"
+    }
+  ],
+  [
+    "fairbanks",
+    {
+      "country": "US",
+      "city": "Fairbanks",
+      "timezone": "America/Anchorage",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "prudhoebay",
+    {
+      "country": "US",
+      "city": "Prudhoe Bay",
+      "timezone": "America/Anchorage",
+      "stateName": "Alaska",
+      "stateIsoCode": "AK"
+    }
+  ],
+  [
+    "minneapolis",
+    {
+      "country": "US",
+      "city": "Minneapolis",
+      "timezone": "America/Chicago",
+      "stateName": "Minnesota",
+      "stateIsoCode": "MN"
+    }
+  ],
+  [
+    "honolulu",
+    {
+      "country": "US",
+      "city": "Honolulu",
+      "timezone": "Pacific/Honolulu",
+      "stateName": "Hawaii",
+      "stateIsoCode": "HI"
+    }
+  ],
+  [
+    "seattle",
+    {
+      "country": "US",
+      "city": "Seattle",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Washington",
+      "stateIsoCode": "WA"
+    }
+  ],
+  [
+    "phoenix",
+    {
+      "country": "US",
+      "city": "Phoenix",
+      "timezone": "America/Phoenix",
+      "stateName": "Oregon",
+      "stateIsoCode": "OR"
+    }
+  ],
+  [
+    "sandiego",
+    {
+      "country": "US",
+      "city": "San Diego",
+      "timezone": "America/Los_Angeles",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "stlouis",
+    {
+      "country": "US",
+      "city": "St. Louis",
+      "timezone": "America/Chicago",
+      "stateName": "Missouri",
+      "stateIsoCode": "MO"
+    }
+  ],
+  [
+    "neworleans",
+    {
+      "country": "US",
+      "city": "New Orleans",
+      "timezone": "America/Chicago",
+      "stateName": "Louisiana",
+      "stateIsoCode": "LA"
+    }
+  ],
+  [
+    "dallas",
+    {
+      "country": "US",
+      "city": "Dallas",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "boston",
+    {
+      "country": "US",
+      "city": "Boston",
+      "timezone": "America/New_York",
+      "stateName": "New York",
+      "stateIsoCode": "NY"
+    }
+  ],
+  [
+    "tampa",
+    {
+      "country": "US",
+      "city": "Tampa",
+      "timezone": "America/New_York",
+      "stateName": "Florida",
+      "stateIsoCode": "FL"
+    }
+  ],
+  [
+    "philadelphia",
+    {
+      "country": "US",
+      "city": "Philadelphia",
+      "timezone": "America/New_York",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "detroit",
+    {
+      "country": "US",
+      "city": "Detroit",
+      "timezone": "America/Detroit",
+      "stateName": "Michigan",
+      "stateIsoCode": "MI"
+    }
+  ],
+  [
+    "anchorage",
+    {
+      "country": "US",
+      "city": "Anchorage",
+      "timezone": "America/Anchorage",
+      "stateName": "Kentucky",
+      "stateIsoCode": "KY"
+    }
+  ],
+  [
+    "sanfrancisco",
+    {
+      "country": "US",
+      "city": "San Francisco",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "denver",
+    {
+      "country": "US",
+      "city": "Denver",
+      "timezone": "America/Denver",
+      "stateName": "Pennsylvania",
+      "stateIsoCode": "PA"
+    }
+  ],
+  [
+    "houston",
+    {
+      "country": "US",
+      "city": "Houston",
+      "timezone": "America/Chicago",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "newroads",
+    {
+      "country": "US",
+      "city": "New Roads",
+      "timezone": "America/Chicago",
+      "stateName": "Louisiana",
+      "stateIsoCode": "LA"
+    }
+  ],
+  [
+    "miami",
+    {
+      "country": "US",
+      "city": "Miami",
+      "timezone": "America/New_York",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "atlanta",
+    {
+      "country": "US",
+      "city": "Atlanta",
+      "timezone": "America/New_York",
+      "stateName": "Texas",
+      "stateIsoCode": "TX"
+    }
+  ],
+  [
+    "chicago",
+    {
+      "country": "US",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "stateName": "Illinois",
+      "stateIsoCode": "IL"
+    }
+  ],
+  [
+    "losangeles",
+    {
+      "country": "US",
+      "city": "Los Angeles",
+      "timezone": "America/Los_Angeles",
+      "stateName": "California",
+      "stateIsoCode": "CA"
+    }
+  ],
+  [
+    "washington",
+    {
+      "country": "US",
+      "city": "Washington, D.C.",
+      "timezone": "America/New_York",
+      "stateName": "District of Columbia",
+      "stateIsoCode": "DC"
+    }
+  ],
+  [
+    "sandusky",
+    {
+      "country": "US",
+      "city": "Sandusky",
+      "timezone": "America/New_York",
+      "stateName": "Ohio",
+      "stateIsoCode": "OH"
+    }
+  ]
+]
+

@@ -1,0 +1,38 @@
+{
+  "name": "electron-browser-backend",
+  "version": "0.0.1",
+  "description": "Secure browser's backend",
+  "author": "Tickops Software",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com:tickops2.0/electron-browser-backend.git"
+  },
+  "homepage": "https://gitlab.com/tickops2.0/electron-browser-backend",
+  "dependencies": {
+    "@sentry/node": "^6.8.0",
+    "axios": "^0.21.4",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "country-language": "^0.1.7",
+    "express": "^4.17.1",
+    "https-proxy-agent": "git+https://github.com/theArina/node-https-proxy-agent.git",
+    "maxmind": "^4.3.1",
+    "merge-json": "0.1.0-b.3",
+    "moment-timezone": "^0.5.27",
+    "mongoose": "^5.12.3",
+    "proxy-chain": "git+https://github.com/petr-vysotskiy/proxy-chain.git#dev",
+    "puppeteer": "^13.5.2",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin": "^3.2.0",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "request": "^2.88.2",
+    "swagger-ui-express": "^4.1.4",
+    "uuid": "^8.2.0",
+    "ws": "^8.3.0"
+  }
+}
